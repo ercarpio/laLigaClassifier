@@ -1,0 +1,836 @@
+Jornada 1
+Data	Local	 	 	Visitant	
+28/08/2010	Hércules	0	1	Athletic Club	
+
+28/08/2010	Levante	1	4	Sevilla	
+
+28/08/2010	Málaga	1	3	Valencia	
+
+29/08/2010	Deportivo de La Coruña	0	0	Real Zaragoza	
+
+29/08/2010	Espanyol	3	1	Getafe	
+
+29/08/2010	Mallorca	0	0	Real Madrid	
+
+29/08/2010	Osasuna	0	0	Almería	
+
+29/08/2010	Racing de Santander	0	3	Barcelona	
+
+29/08/2010	Real Sociedad	1	0	Villarreal	
+
+30/08/2010	Atlético de Madrid	4	0	Sporting de Gijón	
+
+Jornada 2
+Data	Local	 	 	Visitant	
+12/09/2010	Sporting de Gijón	2	0	Mallorca	
+
+11/09/2010	Athletic Club	1	2	Atlético de Madrid	
+
+11/09/2010	Barcelona	0	2	Hércules	
+
+11/09/2010	Valencia	1	0	Racing de Santander	
+
+12/09/2010	Real Zaragoza	3	5	Málaga	
+
+12/09/2010	Sevilla	0	0	Deportivo de La Coruña	
+
+12/09/2010	Getafe	4	1	Levante	
+
+12/09/2010	Villarreal	4	0	Espanyol	
+
+13/09/2010	Almería	2	2	Real Sociedad	
+
+11/09/2010	Real Madrid	1	0	Osasuna	
+
+Jornada 3
+Data	Local	 	 	Visitant	
+18/09/2010	Sporting de Gijón	2	2	Athletic Club	
+
+19/09/2010	Atlético de Madrid	1	2	Barcelona	
+
+19/09/2010	Hércules	1	2	Valencia	
+
+19/09/2010	Racing de Santander	2	0	Real Zaragoza	
+
+19/09/2010	Málaga	1	2	Sevilla	
+
+20/09/2010	Deportivo de La Coruña	2	2	Getafe	
+
+19/09/2010	Levante	1	2	Villarreal	
+
+18/09/2010	Espanyol	1	0	Almería	
+
+18/09/2010	Real Sociedad	1	2	Real Madrid	
+
+18/09/2010	Mallorca	2	0	Osasuna	
+
+Jornada 4
+Data	Local	 	 	Visitant	
+21/09/2010	Athletic Club	3	0	Mallorca	
+
+22/09/2010	Barcelona	1	0	Sporting de Gijón	
+
+22/09/2010	Valencia	1	1	Atlético de Madrid	
+
+22/09/2010	Real Zaragoza	0	0	Hércules	
+
+23/09/2010	Sevilla	1	1	Racing de Santander	
+
+23/09/2010	Getafe	0	2	Málaga	
+
+23/09/2010	Villarreal	1	0	Deportivo de La Coruña	
+
+22/09/2010	Almería	0	1	Levante	
+
+21/09/2010	Real Madrid	3	0	Espanyol	
+
+21/09/2010	Osasuna	3	1	Real Sociedad	
+
+Jornada 5
+Data	Local	 	 	Visitant	
+25/09/2010	Athletic Club	1	3	Barcelona	
+
+25/09/2010	Sporting de Gijón	0	2	Valencia	
+
+26/09/2010	Atlético de Madrid	1	0	Real Zaragoza	
+
+26/09/2010	Hércules	2	0	Sevilla	
+
+26/09/2010	Racing de Santander	0	1	Getafe	
+
+27/09/2010	Málaga	2	3	Villarreal	
+
+26/09/2010	Deportivo de La Coruña	0	2	Almería	
+
+25/09/2010	Levante	0	0	Real Madrid	
+
+26/09/2010	Espanyol	1	0	Osasuna	
+
+26/09/2010	Mallorca	2	0	Real Sociedad	
+
+Jornada 6
+Data	Local	 	 	Visitant	
+03/10/2010	Barcelona	1	1	Mallorca	
+
+02/10/2010	Valencia	2	1	Athletic Club	
+
+02/10/2010	Real Zaragoza	2	2	Sporting de Gijón	
+
+03/10/2010	Sevilla	3	1	Atlético de Madrid	
+
+03/10/2010	Getafe	3	0	Hércules	
+
+03/10/2010	Villarreal	2	0	Racing de Santander	
+
+03/10/2010	Almería	1	1	Málaga	
+
+03/10/2010	Real Madrid	6	1	Deportivo de La Coruña	
+
+03/10/2010	Osasuna	1	1	Levante	
+
+02/10/2010	Real Sociedad	1	0	Espanyol	
+
+Jornada 7
+Data	Local	 	 	Visitant	
+16/10/2010	Barcelona	2	1	Valencia	
+
+17/10/2010	Athletic Club	2	1	Real Zaragoza	
+
+17/10/2010	Sporting de Gijón	2	0	Sevilla	
+
+16/10/2010	Atlético de Madrid	2	0	Getafe	
+
+18/10/2010	Hércules	2	2	Villarreal	
+
+17/10/2010	Racing de Santander	1	0	Almería	
+
+16/10/2010	Málaga	1	4	Real Madrid	
+
+17/10/2010	Deportivo de La Coruña	0	0	Osasuna	
+
+17/10/2010	Levante	2	1	Real Sociedad	
+
+17/10/2010	Mallorca	0	1	Espanyol	
+
+Jornada 8
+Data	Local	 	 	Visitant	
+23/10/2010	Valencia	1	2	Mallorca	
+
+23/10/2010	Real Zaragoza	0	2	Barcelona	
+
+24/10/2010	Sevilla	4	3	Athletic Club	
+
+24/10/2010	Getafe	3	0	Sporting de Gijón	
+
+24/10/2010	Villarreal	2	0	Atlético de Madrid	
+
+24/10/2010	Almería	1	1	Hércules	
+
+23/10/2010	Real Madrid	6	1	Racing de Santander	
+
+24/10/2010	Osasuna	3	0	Málaga	
+
+25/10/2010	Real Sociedad	3	0	Deportivo de La Coruña	
+
+24/10/2010	Espanyol	2	1	Levante	
+
+Jornada 9
+Data	Local	 	 	Visitant	
+30/10/2010	Valencia	1	1	Real Zaragoza	
+
+30/10/2010	Barcelona	5	0	Sevilla	
+
+31/10/2010	Athletic Club	3	0	Getafe	
+
+31/10/2010	Sporting de Gijón	1	1	Villarreal	
+
+31/10/2010	Atlético de Madrid	1	1	Almería	
+
+30/10/2010	Hércules	1	3	Real Madrid	
+
+31/10/2010	Racing de Santander	4	1	Osasuna	
+
+31/10/2010	Málaga	1	2	Real Sociedad	
+
+31/10/2010	Deportivo de La Coruña	3	0	Espanyol	
+
+01/11/2010	Mallorca	2	1	Levante	
+
+Jornada 10
+Data	Local	 	 	Visitant	
+07/11/2010	Real Zaragoza	3	2	Mallorca	
+
+08/11/2010	Sevilla	2	0	Valencia	
+
+07/11/2010	Getafe	1	3	Barcelona	
+
+07/11/2010	Villarreal	4	1	Athletic Club	
+
+07/11/2010	Almería	1	1	Sporting de Gijón	
+
+07/11/2010	Real Madrid	2	0	Atlético de Madrid	
+
+07/11/2010	Osasuna	3	0	Hércules	
+
+06/11/2010	Real Sociedad	1	0	Racing de Santander	
+
+06/11/2010	Espanyol	1	0	Málaga	
+
+07/11/2010	Levante	1	2	Deportivo de La Coruña	
+
+Jornada 11
+Data	Local	 	 	Visitant	
+14/11/2010	Real Zaragoza	1	2	Sevilla	
+
+14/11/2010	Valencia	2	0	Getafe	
+
+13/11/2010	Barcelona	3	1	Villarreal	
+
+13/11/2010	Athletic Club	1	0	Almería	
+
+14/11/2010	Sporting de Gijón	0	1	Real Madrid	
+
+13/11/2010	Atlético de Madrid	3	0	Osasuna	
+
+14/11/2010	Hércules	2	1	Real Sociedad	
+
+14/11/2010	Racing de Santander	0	0	Espanyol	
+
+14/11/2010	Málaga	1	0	Levante	
+
+14/11/2010	Mallorca	0	0	Deportivo de La Coruña	
+
+Jornada 12
+Data	Local	 	 	Visitant	
+21/11/2010	Sevilla	1	2	Mallorca	
+
+22/11/2010	Getafe	1	1	Real Zaragoza	
+
+20/11/2010	Villarreal	1	1	Valencia	
+
+20/11/2010	Almería	0	8	Barcelona	
+
+20/11/2010	Real Madrid	5	1	Athletic Club	
+
+21/11/2010	Osasuna	1	0	Sporting de Gijón	
+
+21/11/2010	Real Sociedad	2	4	Atlético de Madrid	
+
+21/11/2010	Espanyol	3	0	Hércules	
+
+21/11/2010	Levante	3	1	Racing de Santander	
+
+21/11/2010	Deportivo de La Coruña	3	0	Málaga	
+
+Jornada 13
+Data	Local	 	 	Visitant	
+27/11/2010	Sevilla	1	3	Getafe	
+
+27/11/2010	Real Zaragoza	0	3	Villarreal	
+
+28/11/2010	Valencia	2	1	Almería	
+
+29/11/2010	Barcelona	5	0	Real Madrid	
+
+28/11/2010	Athletic Club	1	0	Osasuna	
+
+28/11/2010	Sporting de Gijón	1	3	Real Sociedad	
+
+27/11/2010	Atlético de Madrid	2	3	Espanyol	
+
+28/11/2010	Hércules	3	1	Levante	
+
+28/11/2010	Racing de Santander	1	0	Deportivo de La Coruña	
+
+28/11/2010	Mallorca	2	0	Málaga	
+
+Jornada 14
+Data	Local	 	 	Visitant	
+05/12/2010	Getafe	3	0	Mallorca	
+
+05/12/2010	Villarreal	1	0	Sevilla	
+
+05/12/2010	Almería	1	1	Real Zaragoza	
+
+04/12/2010	Real Madrid	2	0	Valencia	
+
+04/12/2010	Osasuna	0	3	Barcelona	
+
+05/12/2010	Real Sociedad	2	0	Athletic Club	
+
+05/12/2010	Espanyol	1	0	Sporting de Gijón	
+
+04/12/2010	Levante	2	0	Atlético de Madrid	
+
+06/12/2010	Deportivo de La Coruña	1	0	Hércules	
+
+05/12/2010	Málaga	4	1	Racing de Santander	
+
+Jornada 15
+Data	Local	 	 	Visitant	
+11/12/2010	Getafe	1	0	Villarreal	
+
+11/12/2010	Sevilla	1	3	Almería	
+
+12/12/2010	Real Zaragoza	1	3	Real Madrid	
+
+13/12/2010	Valencia	3	3	Osasuna	
+
+12/12/2010	Barcelona	5	0	Real Sociedad	
+
+12/12/2010	Athletic Club	2	1	Espanyol	
+
+12/12/2010	Sporting de Gijón	1	1	Levante	
+
+11/12/2010	Atlético de Madrid	2	0	Deportivo de La Coruña	
+
+12/12/2010	Hércules	4	1	Málaga	
+
+12/12/2010	Mallorca	0	1	Racing de Santander	
+
+Jornada 16
+Data	Local	 	 	Visitant	
+18/12/2010	Villarreal	3	1	Mallorca	
+
+19/12/2010	Almería	2	3	Getafe	
+
+19/12/2010	Real Madrid	1	0	Sevilla	
+
+19/12/2010	Osasuna	0	0	Real Zaragoza	
+
+18/12/2010	Real Sociedad	1	2	Valencia	
+
+18/12/2010	Espanyol	1	5	Barcelona	
+
+18/12/2010	Levante	1	2	Athletic Club	
+
+18/12/2010	Deportivo de La Coruña	1	1	Sporting de Gijón	
+
+19/12/2010	Málaga	0	3	Atlético de Madrid	
+
+20/12/2010	Racing de Santander	0	0	Hércules	
+
+Jornada 17
+Data	Local	 	 	Visitant	
+03/01/2011	Villarreal	2	0	Almería	
+
+03/01/2011	Getafe	2	3	Real Madrid	
+
+02/01/2011	Sevilla	1	0	Osasuna	
+
+03/01/2011	Real Zaragoza	2	1	Real Sociedad	
+
+02/01/2011	Valencia	2	1	Espanyol	
+
+02/01/2011	Barcelona	2	1	Levante	
+
+02/01/2011	Athletic Club	1	2	Deportivo de La Coruña	
+
+02/01/2011	Sporting de Gijón	1	2	Málaga	
+
+03/01/2011	Atlético de Madrid	0	0	Racing de Santander	
+
+03/01/2011	Mallorca	3	0	Hércules	
+
+Jornada 18
+Data	Local	 	 	Visitant	
+09/01/2011	Mallorca	4	1	Almería	
+
+09/01/2011	Real Madrid	4	2	Villarreal	
+
+09/01/2011	Osasuna	0	0	Getafe	
+
+08/01/2011	Real Sociedad	2	3	Sevilla	
+
+09/01/2011	Espanyol	4	0	Real Zaragoza	
+
+09/01/2011	Levante	0	1	Valencia	
+
+08/01/2011	Deportivo de La Coruña	0	4	Barcelona	
+
+08/01/2011	Málaga	1	1	Athletic Club	
+
+09/01/2011	Racing de Santander	1	1	Sporting de Gijón	
+
+10/01/2011	Hércules	4	1	Atlético de Madrid	
+
+Jornada 19
+Data	Local	 	 	Visitant	
+16/01/2011	Almería	1	1	Real Madrid	
+
+15/01/2011	Villarreal	4	2	Osasuna	
+
+15/01/2011	Getafe	0	4	Real Sociedad	
+
+15/01/2011	Sevilla	1	2	Espanyol	
+
+15/01/2011	Real Zaragoza	1	0	Levante	
+
+16/01/2011	Valencia	2	0	Deportivo de La Coruña	
+
+16/01/2011	Barcelona	4	1	Málaga	
+
+15/01/2011	Athletic Club	2	1	Racing de Santander	
+
+15/01/2011	Sporting de Gijón	2	0	Hércules	
+
+17/01/2011	Atlético de Madrid	3	0	Mallorca	
+
+Jornada 20
+Data	Local	 	 	Visitant	
+23/01/2011	Sporting de Gijón	1	0	Atlético de Madrid	
+
+24/01/2011	Athletic Club	3	0	Hércules	
+
+22/01/2011	Barcelona	3	0	Racing de Santander	
+
+22/01/2011	Valencia	4	3	Málaga	
+
+23/01/2011	Real Zaragoza	1	0	Deportivo de La Coruña	
+
+22/01/2011	Sevilla	4	1	Levante	
+
+23/01/2011	Getafe	1	3	Espanyol	
+
+23/01/2011	Villarreal	2	1	Real Sociedad	
+
+23/01/2011	Almería	3	2	Osasuna	
+
+23/01/2011	Real Madrid	1	0	Mallorca	
+
+Jornada 21
+Data	Local	 	 	Visitant	
+29/01/2011	Mallorca	0	4	Sporting de Gijón	
+
+30/01/2011	Atlético de Madrid	0	2	Athletic Club	
+
+29/01/2011	Hércules	0	3	Barcelona	
+
+31/01/2011	Racing de Santander	1	1	Valencia	
+
+29/01/2011	Málaga	1	2	Real Zaragoza	
+
+29/01/2011	Deportivo de La Coruña	3	3	Sevilla	
+
+29/01/2011	Levante	2	0	Getafe	
+
+30/01/2011	Espanyol	0	1	Villarreal	
+
+29/01/2011	Real Sociedad	2	0	Almería	
+
+30/01/2011	Osasuna	1	0	Real Madrid	
+
+Jornada 22
+Data	Local	 	 	Visitant	
+05/02/2011	Athletic Club	3	0	Sporting de Gijón	
+
+05/02/2011	Barcelona	3	0	Atlético de Madrid	
+
+06/02/2011	Valencia	2	0	Hércules	
+
+05/02/2011	Real Zaragoza	1	1	Racing de Santander	
+
+06/02/2011	Sevilla	0	0	Málaga	
+
+05/02/2011	Getafe	4	1	Deportivo de La Coruña	
+
+05/02/2011	Villarreal	0	1	Levante	
+
+05/02/2011	Almería	3	2	Espanyol	
+
+06/02/2011	Real Madrid	4	1	Real Sociedad	
+
+05/02/2011	Osasuna	1	1	Mallorca	
+
+Jornada 23
+Data	Local	 	 	Visitant	
+14/02/2011	Mallorca	1	0	Athletic Club	
+
+12/02/2011	Sporting de Gijón	1	1	Barcelona	
+
+12/02/2011	Atlético de Madrid	1	2	Valencia	
+
+13/02/2011	Hércules	2	1	Real Zaragoza	
+
+12/02/2011	Racing de Santander	3	2	Sevilla	
+
+13/02/2011	Málaga	2	2	Getafe	
+
+13/02/2011	Deportivo de La Coruña	1	0	Villarreal	
+
+13/02/2011	Levante	1	0	Almería	
+
+13/02/2011	Espanyol	0	1	Real Madrid	
+
+13/02/2011	Real Sociedad	1	0	Osasuna	
+
+Jornada 24
+Data	Local	 	 	Visitant	
+20/02/2011	Barcelona	2	1	Athletic Club	
+
+19/02/2011	Valencia	0	0	Sporting de Gijón	
+
+19/02/2011	Real Zaragoza	0	1	Atlético de Madrid	
+
+20/02/2011	Sevilla	1	0	Hércules	
+
+20/02/2011	Getafe	0	1	Racing de Santander	
+
+20/02/2011	Villarreal	1	1	Málaga	
+
+20/02/2011	Almería	1	1	Deportivo de La Coruña	
+
+19/02/2011	Real Madrid	2	0	Levante	
+
+20/02/2011	Osasuna	4	0	Espanyol	
+
+21/02/2011	Real Sociedad	1	0	Mallorca	
+
+Jornada 25
+Data	Local	 	 	Visitant	
+26/02/2011	Mallorca	0	3	Barcelona	
+
+27/02/2011	Athletic Club	1	2	Valencia	
+
+26/02/2011	Sporting de Gijón	0	0	Real Zaragoza	
+
+26/02/2011	Atlético de Madrid	2	2	Sevilla	
+
+27/02/2011	Hércules	0	0	Getafe	
+
+27/02/2011	Racing de Santander	2	2	Villarreal	
+
+28/02/2011	Málaga	3	1	Almería	
+
+26/02/2011	Deportivo de La Coruña	0	0	Real Madrid	
+
+27/02/2011	Levante	2	1	Osasuna	
+
+26/02/2011	Espanyol	4	1	Real Sociedad	
+
+Jornada 26
+Data	Local	 	 	Visitant	
+02/03/2011	Valencia	0	1	Barcelona	
+
+02/03/2011	Real Zaragoza	2	1	Athletic Club	
+
+01/03/2011	Sevilla	3	0	Sporting de Gijón	
+
+02/03/2011	Getafe	1	1	Atlético de Madrid	
+
+02/03/2011	Villarreal	1	0	Hércules	
+
+03/03/2011	Almería	1	1	Racing de Santander	
+
+03/03/2011	Real Madrid	7	0	Málaga	
+
+02/03/2011	Osasuna	0	0	Deportivo de La Coruña	
+
+02/03/2011	Real Sociedad	1	1	Levante	
+
+01/03/2011	Espanyol	1	2	Mallorca	
+
+Jornada 27
+Data	Local	 	 	Visitant	
+05/03/2011	Mallorca	1	2	Valencia	
+
+05/03/2011	Barcelona	1	0	Real Zaragoza	
+
+06/03/2011	Athletic Club	2	0	Sevilla	
+
+06/03/2011	Sporting de Gijón	2	0	Getafe	
+
+05/03/2011	Atlético de Madrid	3	1	Villarreal	
+
+06/03/2011	Hércules	1	2	Almería	
+
+06/03/2011	Racing de Santander	1	3	Real Madrid	
+
+06/03/2011	Málaga	0	1	Osasuna	
+
+07/03/2011	Deportivo de La Coruña	2	1	Real Sociedad	
+
+06/03/2011	Levante	1	0	Espanyol	
+
+Jornada 28
+Data	Local	 	 	Visitant	
+12/03/2011	Real Zaragoza	4	0	Valencia	
+
+13/03/2011	Sevilla	1	1	Barcelona	
+
+14/03/2011	Getafe	2	2	Athletic Club	
+
+13/03/2011	Villarreal	1	1	Sporting de Gijón	
+
+12/03/2011	Almería	2	2	Atlético de Madrid	
+
+12/03/2011	Real Madrid	2	0	Hércules	
+
+13/03/2011	Osasuna	3	1	Racing de Santander	
+
+13/03/2011	Real Sociedad	0	2	Málaga	
+
+13/03/2011	Espanyol	2	0	Deportivo de La Coruña	
+
+13/03/2011	Levante	1	1	Mallorca	
+
+Jornada 29
+Data	Local	 	 	Visitant	
+19/03/2011	Mallorca	1	0	Real Zaragoza	
+
+20/03/2011	Valencia	0	1	Sevilla	
+
+19/03/2011	Barcelona	2	1	Getafe	
+
+20/03/2011	Athletic Club	0	1	Villarreal	
+
+20/03/2011	Sporting de Gijón	1	0	Almería	
+
+19/03/2011	Atlético de Madrid	1	2	Real Madrid	
+
+20/03/2011	Hércules	0	4	Osasuna	
+
+20/03/2011	Racing de Santander	2	1	Real Sociedad	
+
+20/03/2011	Málaga	2	0	Espanyol	
+
+20/03/2011	Deportivo de La Coruña	0	1	Levante	
+
+Jornada 30
+Data	Local	 	 	Visitant	
+03/04/2011	Sevilla	3	1	Real Zaragoza	
+
+02/04/2011	Getafe	2	4	Valencia	
+
+02/04/2011	Villarreal	0	1	Barcelona	
+
+04/04/2011	Almería	1	3	Athletic Club	
+
+02/04/2011	Real Madrid	0	1	Sporting de Gijón	
+
+03/04/2011	Osasuna	2	3	Atlético de Madrid	
+
+03/04/2011	Real Sociedad	1	3	Hércules	
+
+03/04/2011	Espanyol	1	2	Racing de Santander	
+
+03/04/2011	Levante	3	1	Málaga	
+
+03/04/2011	Deportivo de La Coruña	2	1	Mallorca	
+
+Jornada 31
+Data	Local	 	 	Visitant	
+09/04/2011	Mallorca	2	2	Sevilla	
+
+11/04/2011	Real Zaragoza	2	1	Getafe	
+
+10/04/2011	Valencia	5	0	Villarreal	
+
+09/04/2011	Barcelona	3	1	Almería	
+
+09/04/2011	Athletic Club	0	3	Real Madrid	
+
+10/04/2011	Sporting de Gijón	1	0	Osasuna	
+
+10/04/2011	Atlético de Madrid	3	0	Real Sociedad	
+
+10/04/2011	Hércules	0	0	Espanyol	
+
+10/04/2011	Racing de Santander	1	1	Levante	
+
+10/04/2011	Málaga	0	0	Deportivo de La Coruña	
+
+Jornada 32
+Data	Local	 	 	Visitant	
+16/04/2011	Getafe	1	0	Sevilla	
+
+18/04/2011	Villarreal	1	0	Real Zaragoza	
+
+16/04/2011	Almería	0	3	Valencia	
+
+16/04/2011	Real Madrid	1	1	Barcelona	
+
+17/04/2011	Osasuna	1	2	Athletic Club	
+
+17/04/2011	Real Sociedad	2	1	Sporting de Gijón	
+
+17/04/2011	Espanyol	2	2	Atlético de Madrid	
+
+17/04/2011	Levante	2	1	Hércules	
+
+17/04/2011	Deportivo de La Coruña	2	0	Racing de Santander	
+
+16/04/2011	Málaga	3	0	Mallorca	
+
+Jornada 33
+Data	Local	 	 	Visitant	
+24/04/2011	Mallorca	2	0	Getafe	
+
+24/04/2011	Sevilla	3	2	Villarreal	
+
+25/04/2011	Real Zaragoza	1	0	Almería	
+
+23/04/2011	Valencia	3	6	Real Madrid	
+
+23/04/2011	Barcelona	2	0	Osasuna	
+
+23/04/2011	Athletic Club	2	1	Real Sociedad	
+
+24/04/2011	Sporting de Gijón	1	0	Espanyol	
+
+24/04/2011	Atlético de Madrid	4	1	Levante	
+
+24/04/2011	Hércules	1	0	Deportivo de La Coruña	
+
+24/04/2011	Racing de Santander	1	2	Málaga	
+
+Jornada 34
+Data	Local	 	 	Visitant	
+01/05/2011	Villarreal	2	1	Getafe	
+
+01/05/2011	Almería	0	1	Sevilla	
+
+30/04/2011	Real Madrid	2	3	Real Zaragoza	
+
+01/05/2011	Osasuna	1	0	Valencia	
+
+30/04/2011	Real Sociedad	2	1	Barcelona	
+
+02/05/2011	Espanyol	2	1	Athletic Club	
+
+01/05/2011	Levante	0	0	Sporting de Gijón	
+
+30/04/2011	Deportivo de La Coruña	0	1	Atlético de Madrid	
+
+01/05/2011	Málaga	3	1	Hércules	
+
+01/05/2011	Racing de Santander	2	0	Mallorca	
+
+Jornada 35
+Data	Local	 	 	Visitant	
+08/05/2011	Mallorca	0	0	Villarreal	
+
+07/05/2011	Getafe	2	0	Almería	
+
+07/05/2011	Sevilla	2	6	Real Madrid	
+
+08/05/2011	Real Zaragoza	1	3	Osasuna	
+
+07/05/2011	Valencia	3	0	Real Sociedad	
+
+08/05/2011	Barcelona	2	0	Espanyol	
+
+07/05/2011	Athletic Club	3	2	Levante	
+
+07/05/2011	Sporting de Gijón	2	2	Deportivo de La Coruña	
+
+07/05/2011	Atlético de Madrid	0	3	Málaga	
+
+07/05/2011	Hércules	2	3	Racing de Santander	
+
+Jornada 36
+Data	Local	 	 	Visitant	
+11/05/2011	Almería	0	0	Villarreal	
+
+10/05/2011	Real Madrid	4	0	Getafe	
+
+11/05/2011	Osasuna	3	2	Sevilla	
+
+11/05/2011	Real Sociedad	2	1	Real Zaragoza	
+
+11/05/2011	Espanyol	2	2	Valencia	
+
+11/05/2011	Levante	1	1	Barcelona	
+
+10/05/2011	Deportivo de La Coruña	2	1	Athletic Club	
+
+10/05/2011	Málaga	2	0	Sporting de Gijón	
+
+10/05/2011	Racing de Santander	2	1	Atlético de Madrid	
+
+11/05/2011	Hércules	2	2	Mallorca	
+
+Jornada 37
+Data	Local	 	 	Visitant	
+15/05/2011	Almería	3	1	Mallorca	
+
+15/05/2011	Villarreal	1	3	Real Madrid	
+
+15/05/2011	Getafe	2	0	Osasuna	
+
+15/05/2011	Sevilla	3	1	Real Sociedad	
+
+15/05/2011	Real Zaragoza	1	0	Espanyol	
+
+15/05/2011	Valencia	0	0	Levante	
+
+15/05/2011	Barcelona	0	0	Deportivo de La Coruña	
+
+15/05/2011	Athletic Club	1	1	Málaga	
+
+15/05/2011	Sporting de Gijón	2	1	Racing de Santander	
+
+15/05/2011	Atlético de Madrid	2	1	Hércules	
+
+Jornada 38
+Data	Local	 	 	Visitant	
+21/05/2011	Real Madrid	8	1	Almería	
+
+21/05/2011	Osasuna	1	0	Villarreal	
+
+21/05/2011	Real Sociedad	1	1	Getafe	
+
+21/05/2011	Espanyol	2	3	Sevilla	
+
+21/05/2011	Levante	1	2	Real Zaragoza	
+
+21/05/2011	Deportivo de La Coruña	0	2	Valencia	
+
+21/05/2011	Málaga	1	3	Barcelona	
+
+21/05/2011	Racing de Santander	1	2	Athletic Club	
+
+21/05/2011	Hércules	0	0	Sporting de Gijón	
+
+21/05/2011	Mallorca	3	4	Atlético de Madrid	
+

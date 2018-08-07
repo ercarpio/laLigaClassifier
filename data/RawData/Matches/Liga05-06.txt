@@ -1,0 +1,836 @@
+Jornada 1
+Data	Local	 	 	Visitant	
+27/08/2005	Athletic Club	3	0	Real Sociedad	
+
+27/08/2005	Alavés	0	0	Barcelona	
+
+27/08/2005	Valencia	1	0	Betis	
+
+28/08/2005	Atlético de Madrid	0	0	Real Zaragoza	
+
+28/08/2005	Cádiz	1	2	Real Madrid	
+
+28/08/2005	Celta de Vigo	2	0	Málaga	
+
+28/08/2005	Espanyol	0	2	Getafe	
+
+28/08/2005	Mallorca	0	1	Deportivo de La Coruña	
+
+28/08/2005	Osasuna	2	1	Villarreal	
+
+28/08/2005	Sevilla	1	0	Racing de Santander	
+
+Jornada 2
+Data	Local	 	 	Visitant	
+10/09/2005	Betis	1	0	Osasuna	
+
+10/09/2005	Deportivo de La Coruña	1	0	Atlético de Madrid	
+
+10/09/2005	Real Madrid	2	3	Celta de Vigo	
+
+11/09/2005	Barcelona	2	0	Mallorca	
+
+11/09/2005	Getafe	1	1	Athletic Club	
+
+11/09/2005	Málaga	1	2	Espanyol	
+
+11/09/2005	Racing de Santander	0	1	Cádiz	
+
+11/09/2005	Real Sociedad	2	1	Alavés	
+
+11/09/2005	Villarreal	1	1	Sevilla	
+
+11/09/2005	Real Zaragoza	2	2	Valencia	
+
+Jornada 3
+Data	Local	 	 	Visitant	
+17/09/2005	Mallorca	5	2	Real Sociedad	
+
+17/09/2005	Valencia	2	2	Deportivo de La Coruña	
+
+18/09/2005	Athletic Club	1	2	Málaga	
+
+18/09/2005	Atlético de Madrid	2	1	Barcelona	
+
+18/09/2005	Betis	0	0	Real Zaragoza	
+
+18/09/2005	Cádiz	1	1	Villarreal	
+
+18/09/2005	Celta de Vigo	0	1	Racing de Santander	
+
+18/09/2005	Alavés	3	4	Getafe	
+
+18/09/2005	Espanyol	1	0	Real Madrid	
+
+18/09/2005	Osasuna	1	0	Sevilla	
+
+Jornada 4
+Data	Local	 	 	Visitant	
+21/09/2005	Barcelona	2	2	Valencia	
+
+21/09/2005	Deportivo de La Coruña	1	1	Betis	
+
+21/09/2005	Getafe	1	1	Mallorca	
+
+21/09/2005	Málaga	0	0	Alavés	
+
+21/09/2005	Racing de Santander	1	0	Espanyol	
+
+21/09/2005	Real Sociedad	3	2	Atlético de Madrid	
+
+21/09/2005	Sevilla	0	0	Cádiz	
+
+21/09/2005	Villarreal	1	2	Celta de Vigo	
+
+21/09/2005	Real Zaragoza	3	1	Osasuna	
+
+22/09/2005	Real Madrid	3	1	Athletic Club	
+
+Jornada 5
+Data	Local	 	 	Visitant	
+24/09/2005	Atlético de Madrid	0	1	Getafe	
+
+24/09/2005	Betis	1	4	Barcelona	
+
+24/09/2005	Espanyol	1	2	Villarreal	
+
+24/09/2005	Valencia	2	1	Real Sociedad	
+
+24/09/2005	Real Zaragoza	1	1	Deportivo de La Coruña	
+
+25/09/2005	Athletic Club	0	0	Racing de Santander	
+
+25/09/2005	Celta de Vigo	2	1	Sevilla	
+
+25/09/2005	Alavés	0	3	Real Madrid	
+
+25/09/2005	Mallorca	1	4	Málaga	
+
+25/09/2005	Osasuna	2	0	Cádiz	
+
+Jornada 6
+Data	Local	 	 	Visitant	
+01/10/2005	Barcelona	2	2	Real Zaragoza	
+
+01/10/2005	Getafe	2	1	Valencia	
+
+02/10/2005	Cádiz	1	1	Celta de Vigo	
+
+02/10/2005	Deportivo de La Coruña	0	1	Osasuna	
+
+02/10/2005	Málaga	0	2	Atlético de Madrid	
+
+02/10/2005	Racing de Santander	1	2	Alavés	
+
+02/10/2005	Real Sociedad	1	1	Betis	
+
+02/10/2005	Real Madrid	4	0	Mallorca	
+
+02/10/2005	Sevilla	1	1	Espanyol	
+
+02/10/2005	Villarreal	3	1	Athletic Club	
+
+Jornada 7
+Data	Local	 	 	Visitant	
+15/10/2005	Atlético de Madrid	0	3	Real Madrid	
+
+15/10/2005	Alavés	1	1	Villarreal	
+
+15/10/2005	Deportivo de La Coruña	3	3	Barcelona	
+
+16/10/2005	Athletic Club	0	1	Sevilla	
+
+16/10/2005	Betis	1	0	Getafe	
+
+16/10/2005	Espanyol	0	2	Cádiz	
+
+16/10/2005	Mallorca	0	0	Racing de Santander	
+
+16/10/2005	Osasuna	2	0	Celta de Vigo	
+
+16/10/2005	Valencia	2	1	Málaga	
+
+16/10/2005	Real Zaragoza	0	1	Real Sociedad	
+
+Jornada 8
+Data	Local	 	 	Visitant	
+22/10/2005	Barcelona	3	0	Osasuna	
+
+22/10/2005	Sevilla	2	0	Alavés	
+
+23/10/2005	Cádiz	1	0	Athletic Club	
+
+23/10/2005	Celta de Vigo	1	0	Espanyol	
+
+23/10/2005	Getafe	5	2	Real Zaragoza	
+
+23/10/2005	Málaga	5	0	Betis	
+
+23/10/2005	Racing de Santander	0	1	Atlético de Madrid	
+
+23/10/2005	Real Sociedad	2	0	Deportivo de La Coruña	
+
+23/10/2005	Real Madrid	1	2	Valencia	
+
+23/10/2005	Villarreal	3	0	Mallorca	
+
+Jornada 9
+Data	Local	 	 	Visitant	
+29/10/2005	Athletic Club	1	1	Celta de Vigo	
+
+29/10/2005	Betis	0	2	Real Madrid	
+
+30/10/2005	Atlético de Madrid	1	1	Villarreal	
+
+30/10/2005	Barcelona	5	0	Real Sociedad	
+
+30/10/2005	Alavés	0	0	Cádiz	
+
+30/10/2005	Deportivo de La Coruña	1	0	Getafe	
+
+30/10/2005	Mallorca	1	1	Sevilla	
+
+30/10/2005	Osasuna	2	0	Espanyol	
+
+30/10/2005	Valencia	1	1	Racing de Santander	
+
+30/10/2005	Real Zaragoza	1	1	Málaga	
+
+Jornada 10
+Data	Local	 	 	Visitant	
+05/11/2005	Espanyol	1	1	Athletic Club	
+
+05/11/2005	Real Sociedad	1	2	Osasuna	
+
+05/11/2005	Villarreal	1	0	Valencia	
+
+06/11/2005	Cádiz	1	2	Mallorca	
+
+06/11/2005	Celta de Vigo	2	1	Alavés	
+
+06/11/2005	Getafe	1	3	Barcelona	
+
+06/11/2005	Málaga	1	1	Deportivo de La Coruña	
+
+06/11/2005	Racing de Santander	1	1	Betis	
+
+06/11/2005	Real Madrid	1	0	Real Zaragoza	
+
+06/11/2005	Sevilla	0	0	Atlético de Madrid	
+
+Jornada 11
+Data	Local	 	 	Visitant	
+26/10/2005	Barcelona	2	0	Málaga	
+
+26/10/2005	Betis	2	3	Villarreal	
+
+26/10/2005	Deportivo de La Coruña	3	1	Real Madrid	
+
+26/10/2005	Mallorca	1	0	Celta de Vigo	
+
+26/10/2005	Osasuna	3	2	Athletic Club	
+
+27/10/2005	Atlético de Madrid	3	0	Cádiz	
+
+27/10/2005	Alavés	1	1	Espanyol	
+
+27/10/2005	Real Sociedad	3	0	Getafe	
+
+27/10/2005	Valencia	0	2	Sevilla	
+
+27/10/2005	Real Zaragoza	1	1	Racing de Santander	
+
+Jornada 12
+Data	Local	 	 	Visitant	
+19/11/2005	Getafe	0	0	Osasuna	
+
+19/11/2005	Real Madrid	0	3	Barcelona	
+
+19/11/2005	Sevilla	1	0	Betis	
+
+19/11/2005	Villarreal	0	0	Real Zaragoza	
+
+20/11/2005	Athletic Club	0	2	Alavés	
+
+20/11/2005	Cádiz	0	1	Valencia	
+
+20/11/2005	Celta de Vigo	2	1	Atlético de Madrid	
+
+20/11/2005	Espanyol	2	0	Mallorca	
+
+20/11/2005	Málaga	3	1	Real Sociedad	
+
+20/11/2005	Racing de Santander	0	3	Deportivo de La Coruña	
+
+Jornada 13
+Data	Local	 	 	Visitant	
+26/11/2005	Mallorca	0	1	Athletic Club	
+
+26/11/2005	Valencia	2	0	Celta de Vigo	
+
+27/11/2005	Atlético de Madrid	1	1	Espanyol	
+
+27/11/2005	Barcelona	4	1	Racing de Santander	
+
+27/11/2005	Betis	1	1	Cádiz	
+
+27/11/2005	Deportivo de La Coruña	0	2	Villarreal	
+
+27/11/2005	Getafe	3	2	Málaga	
+
+27/11/2005	Osasuna	3	2	Alavés	
+
+27/11/2005	Real Sociedad	2	2	Real Madrid	
+
+27/11/2005	Real Zaragoza	0	2	Sevilla	
+
+Jornada 14
+Data	Local	 	 	Visitant	
+03/12/2005	Athletic Club	1	1	Atlético de Madrid	
+
+03/12/2005	Celta de Vigo	2	1	Betis	
+
+03/12/2005	Real Madrid	1	0	Getafe	
+
+04/12/2005	Cádiz	1	2	Real Zaragoza	
+
+04/12/2005	Alavés	0	3	Mallorca	
+
+04/12/2005	Espanyol	1	3	Valencia	
+
+04/12/2005	Málaga	1	2	Osasuna	
+
+04/12/2005	Racing de Santander	2	2	Real Sociedad	
+
+04/12/2005	Sevilla	0	2	Deportivo de La Coruña	
+
+04/12/2005	Villarreal	0	2	Barcelona	
+
+Jornada 15
+Data	Local	 	 	Visitant	
+10/12/2005	Real Sociedad	1	3	Villarreal	
+
+10/12/2005	Valencia	1	1	Athletic Club	
+
+11/12/2005	Atlético de Madrid	1	1	Alavés	
+
+11/12/2005	Barcelona	2	1	Sevilla	
+
+11/12/2005	Betis	0	0	Espanyol	
+
+11/12/2005	Deportivo de La Coruña	1	0	Cádiz	
+
+11/12/2005	Getafe	1	2	Racing de Santander	
+
+11/12/2005	Málaga	0	2	Real Madrid	
+
+11/12/2005	Osasuna	1	0	Mallorca	
+
+11/12/2005	Real Zaragoza	1	0	Celta de Vigo	
+
+Jornada 16
+Data	Local	 	 	Visitant	
+17/12/2005	Athletic Club	2	0	Betis	
+
+17/12/2005	Cádiz	1	3	Barcelona	
+
+17/12/2005	Celta de Vigo	0	3	Deportivo de La Coruña	
+
+18/12/2005	Alavés	0	1	Valencia	
+
+18/12/2005	Espanyol	2	2	Real Zaragoza	
+
+18/12/2005	Mallorca	2	2	Atlético de Madrid	
+
+18/12/2005	Racing de Santander	1	1	Málaga	
+
+18/12/2005	Real Madrid	1	1	Osasuna	
+
+18/12/2005	Sevilla	3	2	Real Sociedad	
+
+18/12/2005	Villarreal	2	1	Getafe	
+
+Jornada 17
+Data	Local	 	 	Visitant	
+20/12/2005	Barcelona	2	0	Celta de Vigo	
+
+21/12/2005	Betis	3	0	Alavés	
+
+21/12/2005	Deportivo de La Coruña	1	2	Espanyol	
+
+21/12/2005	Getafe	1	0	Sevilla	
+
+21/12/2005	Málaga	0	0	Villarreal	
+
+21/12/2005	Real Sociedad	2	0	Cádiz	
+
+21/12/2005	Real Madrid	1	2	Racing de Santander	
+
+21/12/2005	Valencia	3	0	Mallorca	
+
+21/12/2005	Real Zaragoza	3	2	Athletic Club	
+
+22/12/2005	Osasuna	2	1	Atlético de Madrid	
+
+Jornada 18
+Data	Local	 	 	Visitant	
+07/01/2006	Athletic Club	1	2	Deportivo de La Coruña	
+
+07/01/2006	Espanyol	1	2	Barcelona	
+
+08/01/2006	Atlético de Madrid	0	0	Valencia	
+
+08/01/2006	Cádiz	1	0	Getafe	
+
+08/01/2006	Celta de Vigo	1	0	Real Sociedad	
+
+08/01/2006	Alavés	0	2	Real Zaragoza	
+
+08/01/2006	Mallorca	1	1	Betis	
+
+08/01/2006	Osasuna	1	1	Racing de Santander	
+
+08/01/2006	Sevilla	3	1	Málaga	
+
+08/01/2006	Villarreal	0	0	Real Madrid	
+
+Jornada 19
+Data	Local	 	 	Visitant	
+14/01/2006	Betis	1	0	Atlético de Madrid	
+
+14/01/2006	Valencia	2	0	Osasuna	
+
+15/01/2006	Barcelona	2	1	Athletic Club	
+
+15/01/2006	Deportivo de La Coruña	0	2	Alavés	
+
+15/01/2006	Getafe	1	1	Celta de Vigo	
+
+15/01/2006	Málaga	0	2	Cádiz	
+
+15/01/2006	Racing de Santander	1	0	Villarreal	
+
+15/01/2006	Real Sociedad	0	1	Espanyol	
+
+15/01/2006	Real Madrid	4	2	Sevilla	
+
+15/01/2006	Real Zaragoza	3	1	Mallorca	
+
+Jornada 20
+Data	Local	 	 	Visitant	
+21/01/2006	Real Madrid	3	1	Cádiz	
+
+21/01/2006	Real Zaragoza	0	2	Atlético de Madrid	
+
+22/01/2006	Barcelona	2	0	Alavés	
+
+22/01/2006	Betis	0	2	Valencia	
+
+22/01/2006	Deportivo de La Coruña	2	2	Mallorca	
+
+22/01/2006	Getafe	5	0	Espanyol	
+
+22/01/2006	Málaga	0	2	Celta de Vigo	
+
+22/01/2006	Racing de Santander	2	3	Sevilla	
+
+22/01/2006	Real Sociedad	3	3	Athletic Club	
+
+22/01/2006	Villarreal	2	1	Osasuna	
+
+Jornada 21
+Data	Local	 	 	Visitant	
+28/01/2006	Athletic Club	1	0	Getafe	
+
+28/01/2006	Atlético de Madrid	3	2	Deportivo de La Coruña	
+
+28/01/2006	Cádiz	1	1	Racing de Santander	
+
+29/01/2006	Celta de Vigo	1	2	Real Madrid	
+
+29/01/2006	Alavés	3	1	Real Sociedad	
+
+29/01/2006	Espanyol	3	1	Málaga	
+
+29/01/2006	Mallorca	0	3	Barcelona	
+
+29/01/2006	Osasuna	0	2	Betis	
+
+29/01/2006	Sevilla	2	0	Villarreal	
+
+29/01/2006	Valencia	2	2	Real Zaragoza	
+
+Jornada 22
+Data	Local	 	 	Visitant	
+04/02/2006	Deportivo de La Coruña	0	1	Valencia	
+
+04/02/2006	Málaga	2	1	Athletic Club	
+
+04/02/2006	Real Madrid	4	0	Espanyol	
+
+05/02/2006	Barcelona	1	3	Atlético de Madrid	
+
+05/02/2006	Getafe	2	2	Alavés	
+
+05/02/2006	Racing de Santander	0	1	Celta de Vigo	
+
+05/02/2006	Real Sociedad	2	1	Mallorca	
+
+05/02/2006	Sevilla	0	1	Osasuna	
+
+05/02/2006	Villarreal	1	1	Cádiz	
+
+05/02/2006	Real Zaragoza	4	3	Betis	
+
+Jornada 23
+Data	Local	 	 	Visitant	
+11/02/2006	Athletic Club	0	2	Real Madrid	
+
+11/02/2006	Cádiz	0	4	Sevilla	
+
+11/02/2006	Osasuna	1	1	Real Zaragoza	
+
+12/02/2006	Atlético de Madrid	1	0	Real Sociedad	
+
+12/02/2006	Betis	0	1	Deportivo de La Coruña	
+
+12/02/2006	Celta de Vigo	1	0	Villarreal	
+
+12/02/2006	Alavés	3	2	Málaga	
+
+12/02/2006	Espanyol	0	2	Racing de Santander	
+
+12/02/2006	Mallorca	1	1	Getafe	
+
+12/02/2006	Valencia	1	0	Barcelona	
+
+Jornada 24
+Data	Local	 	 	Visitant	
+18/02/2006	Barcelona	5	1	Betis	
+
+18/02/2006	Real Madrid	3	0	Alavés	
+
+18/02/2006	Sevilla	1	0	Celta de Vigo	
+
+18/02/2006	Villarreal	4	0	Espanyol	
+
+19/02/2006	Cádiz	1	3	Osasuna	
+
+19/02/2006	Deportivo de La Coruña	1	1	Real Zaragoza	
+
+19/02/2006	Getafe	0	3	Atlético de Madrid	
+
+19/02/2006	Málaga	0	2	Mallorca	
+
+19/02/2006	Racing de Santander	0	1	Athletic Club	
+
+19/02/2006	Real Sociedad	1	2	Valencia	
+
+Jornada 25
+Data	Local	 	 	Visitant	
+25/02/2006	Atlético de Madrid	5	0	Málaga	
+
+25/02/2006	Real Zaragoza	0	2	Barcelona	
+
+26/02/2006	Athletic Club	1	1	Villarreal	
+
+26/02/2006	Betis	2	0	Real Sociedad	
+
+26/02/2006	Celta de Vigo	2	0	Cádiz	
+
+26/02/2006	Alavés	2	2	Racing de Santander	
+
+26/02/2006	Espanyol	5	0	Sevilla	
+
+26/02/2006	Mallorca	2	1	Real Madrid	
+
+26/02/2006	Osasuna	1	2	Deportivo de La Coruña	
+
+26/02/2006	Valencia	1	1	Getafe	
+
+Jornada 26
+Data	Local	 	 	Visitant	
+04/03/2006	Barcelona	3	2	Deportivo de La Coruña	
+
+04/03/2006	Cádiz	2	0	Espanyol	
+
+04/03/2006	Real Madrid	2	1	Atlético de Madrid	
+
+04/03/2006	Villarreal	3	2	Alavés	
+
+05/03/2006	Celta de Vigo	2	0	Osasuna	
+
+05/03/2006	Getafe	1	0	Betis	
+
+05/03/2006	Málaga	0	0	Valencia	
+
+05/03/2006	Racing de Santander	0	0	Mallorca	
+
+05/03/2006	Real Sociedad	1	3	Real Zaragoza	
+
+05/03/2006	Sevilla	2	1	Athletic Club	
+
+Jornada 27
+Data	Local	 	 	Visitant	
+11/03/2006	Deportivo de La Coruña	0	1	Real Sociedad	
+
+11/03/2006	Espanyol	2	0	Celta de Vigo	
+
+11/03/2006	Valencia	0	0	Real Madrid	
+
+12/03/2006	Athletic Club	1	0	Cádiz	
+
+12/03/2006	Atlético de Madrid	2	1	Racing de Santander	
+
+12/03/2006	Betis	1	1	Málaga	
+
+12/03/2006	Alavés	2	1	Sevilla	
+
+12/03/2006	Mallorca	1	1	Villarreal	
+
+12/03/2006	Osasuna	2	1	Barcelona	
+
+12/03/2006	Real Zaragoza	1	2	Getafe	
+
+Jornada 28
+Data	Local	 	 	Visitant	
+18/03/2006	Getafe	1	2	Deportivo de La Coruña	
+
+18/03/2006	Real Sociedad	0	2	Barcelona	
+
+18/03/2006	Villarreal	1	1	Atlético de Madrid	
+
+19/03/2006	Cádiz	0	0	Alavés	
+
+19/03/2006	Celta de Vigo	0	1	Athletic Club	
+
+19/03/2006	Espanyol	2	4	Osasuna	
+
+19/03/2006	Málaga	0	1	Real Zaragoza	
+
+19/03/2006	Racing de Santander	2	1	Valencia	
+
+19/03/2006	Real Madrid	0	0	Betis	
+
+19/03/2006	Sevilla	1	1	Mallorca	
+
+Jornada 29
+Data	Local	 	 	Visitant	
+21/03/2006	Barcelona	3	1	Getafe	
+
+22/03/2006	Athletic Club	1	1	Espanyol	
+
+22/03/2006	Betis	1	0	Racing de Santander	
+
+22/03/2006	Alavés	1	0	Celta de Vigo	
+
+22/03/2006	Deportivo de La Coruña	2	1	Málaga	
+
+22/03/2006	Mallorca	1	0	Cádiz	
+
+22/03/2006	Osasuna	2	0	Real Sociedad	
+
+22/03/2006	Valencia	1	1	Villarreal	
+
+22/03/2006	Real Zaragoza	1	1	Real Madrid	
+
+23/03/2006	Atlético de Madrid	0	1	Sevilla	
+
+Jornada 30
+Data	Local	 	 	Visitant	
+25/03/2006	Athletic Club	1	0	Osasuna	
+
+25/03/2006	Málaga	0	0	Barcelona	
+
+25/03/2006	Villarreal	1	2	Betis	
+
+26/03/2006	Cádiz	1	1	Atlético de Madrid	
+
+26/03/2006	Celta de Vigo	2	0	Mallorca	
+
+26/03/2006	Espanyol	0	0	Alavés	
+
+26/03/2006	Getafe	2	1	Real Sociedad	
+
+26/03/2006	Racing de Santander	0	0	Real Zaragoza	
+
+26/03/2006	Real Madrid	4	0	Deportivo de La Coruña	
+
+26/03/2006	Sevilla	1	0	Valencia	
+
+Jornada 31
+Data	Local	 	 	Visitant	
+01/04/2006	Barcelona	1	1	Real Madrid	
+
+01/04/2006	Real Sociedad	3	0	Málaga	
+
+01/04/2006	Real Zaragoza	0	1	Villarreal	
+
+02/04/2006	Atlético de Madrid	0	3	Celta de Vigo	
+
+02/04/2006	Betis	2	1	Sevilla	
+
+02/04/2006	Alavés	0	0	Athletic Club	
+
+02/04/2006	Deportivo de La Coruña	2	0	Racing de Santander	
+
+02/04/2006	Mallorca	0	0	Espanyol	
+
+02/04/2006	Osasuna	0	4	Getafe	
+
+02/04/2006	Valencia	5	3	Cádiz	
+
+Jornada 32
+Data	Local	 	 	Visitant	
+08/04/2006	Cádiz	1	1	Betis	
+
+08/04/2006	Celta de Vigo	0	1	Valencia	
+
+08/04/2006	Málaga	1	2	Getafe	
+
+08/04/2006	Real Madrid	1	1	Real Sociedad	
+
+09/04/2006	Athletic Club	1	1	Mallorca	
+
+09/04/2006	Alavés	1	2	Osasuna	
+
+09/04/2006	Espanyol	1	1	Atlético de Madrid	
+
+09/04/2006	Racing de Santander	2	2	Barcelona	
+
+09/04/2006	Sevilla	1	1	Real Zaragoza	
+
+09/04/2006	Villarreal	1	1	Deportivo de La Coruña	
+
+Jornada 33
+Data	Local	 	 	Visitant	
+14/04/2006	Barcelona	1	0	Villarreal	
+
+15/04/2006	Deportivo de La Coruña	0	0	Sevilla	
+
+15/04/2006	Mallorca	0	0	Alavés	
+
+15/04/2006	Real Sociedad	1	0	Racing de Santander	
+
+16/04/2006	Atlético de Madrid	1	0	Athletic Club	
+
+16/04/2006	Betis	0	2	Celta de Vigo	
+
+16/04/2006	Getafe	1	1	Real Madrid	
+
+16/04/2006	Osasuna	1	1	Málaga	
+
+16/04/2006	Valencia	4	0	Espanyol	
+
+16/04/2006	Real Zaragoza	1	2	Cádiz	
+
+Jornada 34
+Data	Local	 	 	Visitant	
+22/04/2006	Celta de Vigo	4	0	Real Zaragoza	
+
+22/04/2006	Alavés	0	1	Atlético de Madrid	
+
+22/04/2006	Villarreal	0	2	Real Sociedad	
+
+23/04/2006	Athletic Club	0	3	Valencia	
+
+23/04/2006	Cádiz	1	1	Deportivo de La Coruña	
+
+23/04/2006	Espanyol	2	0	Betis	
+
+23/04/2006	Mallorca	0	1	Osasuna	
+
+23/04/2006	Racing de Santander	1	3	Getafe	
+
+23/04/2006	Real Madrid	2	1	Málaga	
+
+13/05/2006	Sevilla	3	2	Barcelona	
+
+Jornada 35
+Data	Local	 	 	Visitant	
+29/04/2006	Barcelona	1	0	Cádiz	
+
+29/04/2006	Betis	1	1	Athletic Club	
+
+29/04/2006	Deportivo de La Coruña	0	2	Celta de Vigo	
+
+30/04/2006	Atlético de Madrid	0	1	Mallorca	
+
+30/04/2006	Getafe	1	1	Villarreal	
+
+30/04/2006	Málaga	2	3	Racing de Santander	
+
+30/04/2006	Osasuna	0	1	Real Madrid	
+
+30/04/2006	Real Sociedad	1	2	Sevilla	
+
+30/04/2006	Valencia	3	0	Alavés	
+
+30/04/2006	Real Zaragoza	1	1	Espanyol	
+
+Jornada 36
+Data	Local	 	 	Visitant	
+03/05/2006	Athletic Club	1	0	Real Zaragoza	
+
+03/05/2006	Atlético de Madrid	0	1	Osasuna	
+
+03/05/2006	Cádiz	2	2	Real Sociedad	
+
+03/05/2006	Celta de Vigo	0	1	Barcelona	
+
+03/05/2006	Alavés	2	0	Betis	
+
+03/05/2006	Espanyol	1	2	Deportivo de La Coruña	
+
+03/05/2006	Mallorca	2	1	Valencia	
+
+03/05/2006	Sevilla	3	0	Getafe	
+
+03/05/2006	Villarreal	2	1	Málaga	
+
+04/05/2006	Racing de Santander	2	3	Real Madrid	
+
+Jornada 37
+Data	Local	 	 	Visitant	
+06/05/2006	Barcelona	2	0	Espanyol	
+
+06/05/2006	Málaga	0	2	Sevilla	
+
+06/05/2006	Valencia	1	1	Atlético de Madrid	
+
+07/05/2006	Betis	2	1	Mallorca	
+
+07/05/2006	Deportivo de La Coruña	1	2	Athletic Club	
+
+07/05/2006	Getafe	3	1	Cádiz	
+
+07/05/2006	Racing de Santander	2	1	Osasuna	
+
+07/05/2006	Real Sociedad	2	2	Celta de Vigo	
+
+07/05/2006	Real Madrid	3	3	Villarreal	
+
+07/05/2006	Real Zaragoza	3	0	Alavés	
+
+Jornada 38
+Data	Local	 	 	Visitant	
+13/05/2006	Atlético de Madrid	1	1	Betis	
+
+13/05/2006	Cádiz	5	0	Málaga	
+
+12/05/2006	Celta de Vigo	1	0	Getafe	
+
+13/05/2006	Alavés	1	0	Deportivo de La Coruña	
+
+13/05/2006	Espanyol	1	0	Real Sociedad	
+
+13/05/2006	Mallorca	3	1	Real Zaragoza	
+
+13/05/2006	Villarreal	2	0	Racing de Santander	
+
+16/05/2006	Osasuna	2	1	Valencia	
+
+16/05/2006	Sevilla	4	3	Real Madrid	
+
+20/05/2006	Athletic Club	3	1	Barcelona	
+

@@ -1,0 +1,836 @@
+Jornada 1
+Data	Local	 	 	Visitant	
+18/08/2012	Celta de Vigo	0	1	Málaga	
+
+18/08/2012	Sevilla	2	1	Getafe	
+
+18/08/2012	Mallorca	2	1	Espanyol	
+
+19/08/2012	Athletic Club	3	5	Betis	
+
+19/08/2012	Real Madrid	1	1	Valencia	
+
+19/08/2012	Barcelona	5	1	Real Sociedad	
+
+19/08/2012	Levante	1	1	Atlético de Madrid	
+
+20/08/2012	Deportivo de La Coruña	2	0	Osasuna	
+
+20/08/2012	Rayo Vallecano	1	0	Granada	
+
+20/08/2012	Real Zaragoza	0	1	Valladolid	
+
+Jornada 2
+Data	Local	 	 	Visitant	
+25/08/2012	Real Sociedad	2	1	Celta de Vigo	
+
+25/08/2012	Betis	1	2	Rayo Vallecano	
+
+25/08/2012	Espanyol	1	2	Real Zaragoza	
+
+25/08/2012	Málaga	1	1	Mallorca	
+
+26/08/2012	Osasuna	1	2	Barcelona	
+
+26/08/2012	Getafe	2	1	Real Madrid	
+
+26/08/2012	Granada	1	1	Sevilla	
+
+26/08/2012	Valencia	3	3	Deportivo de La Coruña	
+
+27/08/2012	Valladolid	2	0	Levante	
+
+27/08/2012	Atlético de Madrid	4	0	Athletic Club	
+
+Jornada 3
+Data	Local	 	 	Visitant	
+01/09/2012	Celta de Vigo	2	0	Osasuna	
+
+01/09/2012	Real Zaragoza	0	1	Málaga	
+
+01/09/2012	Deportivo de La Coruña	1	1	Getafe	
+
+01/09/2012	Mallorca	1	0	Real Sociedad	
+
+02/09/2012	Rayo Vallecano	0	0	Sevilla	
+
+02/09/2012	Athletic Club	2	0	Valladolid	
+
+02/09/2012	Levante	3	2	Espanyol	
+
+02/09/2012	Real Madrid	3	0	Granada	
+
+02/09/2012	Barcelona	1	0	Valencia	
+
+26/09/2012	Betis	2	4	Atlético de Madrid	
+
+Jornada 4
+Data	Local	 	 	Visitant	
+15/09/2012	Málaga	3	1	Levante	
+
+15/09/2012	Valencia	2	1	Celta de Vigo	
+
+15/09/2012	Getafe	1	4	Barcelona	
+
+15/09/2012	Sevilla	1	0	Real Madrid	
+
+16/09/2012	Espanyol	3	3	Athletic Club	
+
+16/09/2012	Granada	1	1	Deportivo de La Coruña	
+
+16/09/2012	Osasuna	1	1	Mallorca	
+
+16/09/2012	Real Sociedad	2	0	Real Zaragoza	
+
+16/09/2012	Atlético de Madrid	4	3	Rayo Vallecano	
+
+17/09/2012	Valladolid	0	1	Betis	
+
+Jornada 5
+Data	Local	 	 	Visitant	
+22/09/2012	Real Zaragoza	3	1	Osasuna	
+
+22/09/2012	Celta de Vigo	2	1	Getafe	
+
+22/09/2012	Betis	1	0	Espanyol	
+
+22/09/2012	Barcelona	2	0	Granada	
+
+23/09/2012	Mallorca	2	0	Valencia	
+
+23/09/2012	Levante	2	1	Real Sociedad	
+
+23/09/2012	Atlético de Madrid	2	1	Valladolid	
+
+23/09/2012	Athletic Club	0	0	Málaga	
+
+24/09/2012	Rayo Vallecano	0	2	Real Madrid	
+
+24/09/2012	Deportivo de La Coruña	0	2	Sevilla	
+
+Jornada 6
+Data	Local	 	 	Visitant	
+29/09/2012	Valencia	2	0	Real Zaragoza	
+
+29/09/2012	Málaga	4	0	Betis	
+
+29/09/2012	Real Sociedad	2	0	Athletic Club	
+
+29/09/2012	Sevilla	2	3	Barcelona	
+
+30/09/2012	Granada	2	1	Celta de Vigo	
+
+30/09/2012	Valladolid	6	1	Rayo Vallecano	
+
+30/09/2012	Osasuna	4	0	Levante	
+
+30/09/2012	Real Madrid	5	1	Deportivo de La Coruña	
+
+30/09/2012	Espanyol	0	1	Atlético de Madrid	
+
+01/10/2012	Getafe	1	0	Mallorca	
+
+Jornada 7
+Data	Local	 	 	Visitant	
+05/10/2012	Celta de Vigo	2	0	Sevilla	
+
+06/10/2012	Rayo Vallecano	2	1	Deportivo de La Coruña	
+
+06/10/2012	Real Zaragoza	0	1	Getafe	
+
+06/10/2012	Valladolid	1	1	Espanyol	
+
+06/10/2012	Betis	2	0	Real Sociedad	
+
+07/10/2012	Levante	1	0	Valencia	
+
+07/10/2012	Mallorca	1	2	Granada	
+
+07/10/2012	Athletic Club	1	0	Osasuna	
+
+07/10/2012	Barcelona	2	2	Real Madrid	
+
+07/10/2012	Atlético de Madrid	2	1	Málaga	
+
+Jornada 8
+Data	Local	 	 	Visitant	
+20/10/2012	Málaga	2	1	Valladolid	
+
+20/10/2012	Real Madrid	2	0	Celta de Vigo	
+
+20/10/2012	Valencia	3	2	Athletic Club	
+
+20/10/2012	Deportivo de La Coruña	4	5	Barcelona	
+
+21/10/2012	Getafe	0	1	Levante	
+
+21/10/2012	Espanyol	3	2	Rayo Vallecano	
+
+21/10/2012	Granada	1	2	Real Zaragoza	
+
+21/10/2012	Osasuna	0	0	Betis	
+
+21/10/2012	Real Sociedad	0	1	Atlético de Madrid	
+
+22/10/2012	Sevilla	3	2	Mallorca	
+
+Jornada 9
+Data	Local	 	 	Visitant	
+27/10/2012	Espanyol	0	0	Málaga	
+
+27/10/2012	Betis	1	0	Valencia	
+
+27/10/2012	Celta de Vigo	1	1	Deportivo de La Coruña	
+
+27/10/2012	Rayo Vallecano	0	5	Barcelona	
+
+28/10/2012	Real Zaragoza	2	1	Sevilla	
+
+28/10/2012	Levante	3	1	Granada	
+
+28/10/2012	Athletic Club	1	2	Getafe	
+
+28/10/2012	Atlético de Madrid	3	1	Osasuna	
+
+28/10/2012	Mallorca	0	5	Real Madrid	
+
+29/10/2012	Valladolid	2	2	Real Sociedad	
+
+Jornada 10
+Data	Local	 	 	Visitant	
+03/11/2012	Málaga	1	2	Rayo Vallecano	
+
+03/11/2012	Barcelona	3	1	Celta de Vigo	
+
+03/11/2012	Real Madrid	4	0	Real Zaragoza	
+
+03/11/2012	Valencia	2	0	Atlético de Madrid	
+
+04/11/2012	Real Sociedad	0	1	Espanyol	
+
+04/11/2012	Deportivo de La Coruña	1	0	Mallorca	
+
+04/11/2012	Osasuna	0	1	Valladolid	
+
+04/11/2012	Granada	1	2	Athletic Club	
+
+04/11/2012	Sevilla	0	0	Levante	
+
+05/11/2012	Getafe	2	4	Betis	
+
+Jornada 11
+Data	Local	 	 	Visitant	
+09/11/2012	Betis	1	2	Granada	
+
+10/11/2012	Rayo Vallecano	3	2	Celta de Vigo	
+
+10/11/2012	Espanyol	0	3	Osasuna	
+
+10/11/2012	Real Zaragoza	5	3	Deportivo de La Coruña	
+
+10/11/2012	Málaga	1	2	Real Sociedad	
+
+11/11/2012	Valladolid	1	1	Valencia	
+
+11/11/2012	Athletic Club	2	1	Sevilla	
+
+11/11/2012	Mallorca	2	4	Barcelona	
+
+11/11/2012	Atlético de Madrid	2	0	Getafe	
+
+11/11/2012	Levante	1	2	Real Madrid	
+
+Jornada 12
+Data	Local	 	 	Visitant	
+17/11/2012	Osasuna	0	0	Málaga	
+
+17/11/2012	Valencia	2	1	Espanyol	
+
+17/11/2012	Barcelona	3	1	Real Zaragoza	
+
+17/11/2012	Real Madrid	5	1	Athletic Club	
+
+18/11/2012	Deportivo de La Coruña	0	2	Levante	
+
+18/11/2012	Celta de Vigo	1	1	Mallorca	
+
+18/11/2012	Getafe	2	1	Valladolid	
+
+18/11/2012	Granada	0	1	Atlético de Madrid	
+
+18/11/2012	Sevilla	5	1	Betis	
+
+19/11/2012	Real Sociedad	4	0	Rayo Vallecano	
+
+Jornada 13
+Data	Local	 	 	Visitant	
+23/11/2012	Real Sociedad	0	0	Osasuna	
+
+24/11/2012	Rayo Vallecano	2	0	Mallorca	
+
+24/11/2012	Valladolid	1	0	Granada	
+
+24/11/2012	Málaga	4	0	Valencia	
+
+24/11/2012	Betis	1	0	Real Madrid	
+
+25/11/2012	Espanyol	0	2	Getafe	
+
+25/11/2012	Athletic Club	1	1	Deportivo de La Coruña	
+
+25/11/2012	Atlético de Madrid	4	0	Sevilla	
+
+25/11/2012	Levante	0	4	Barcelona	
+
+26/11/2012	Real Zaragoza	0	1	Celta de Vigo	
+
+Jornada 14
+Data	Local	 	 	Visitant	
+30/11/2012	Osasuna	1	0	Rayo Vallecano	
+
+01/12/2012	Getafe	1	0	Málaga	
+
+01/12/2012	Valencia	2	5	Real Sociedad	
+
+01/12/2012	Barcelona	5	1	Athletic Club	
+
+01/12/2012	Real Madrid	2	0	Atlético de Madrid	
+
+02/12/2012	Granada	0	0	Espanyol	
+
+02/12/2012	Deportivo de La Coruña	2	3	Betis	
+
+02/12/2012	Celta de Vigo	1	1	Levante	
+
+02/12/2012	Mallorca	1	1	Real Zaragoza	
+
+03/12/2012	Sevilla	1	2	Valladolid	
+
+Jornada 15
+Data	Local	 	 	Visitant	
+07/12/2012	Espanyol	2	2	Sevilla	
+
+08/12/2012	Real Sociedad	1	1	Getafe	
+
+08/12/2012	Málaga	4	0	Granada	
+
+08/12/2012	Valladolid	2	3	Real Madrid	
+
+08/12/2012	Osasuna	0	1	Valencia	
+
+09/12/2012	Levante	4	0	Mallorca	
+
+09/12/2012	Athletic Club	1	0	Celta de Vigo	
+
+09/12/2012	Atlético de Madrid	6	0	Deportivo de La Coruña	
+
+09/12/2012	Betis	1	2	Barcelona	
+
+10/12/2012	Rayo Vallecano	0	2	Real Zaragoza	
+
+Jornada 16
+Data	Local	 	 	Visitant	
+15/12/2012	Getafe	1	1	Osasuna	
+
+15/12/2012	Mallorca	0	1	Athletic Club	
+
+15/12/2012	Granada	0	0	Real Sociedad	
+
+15/12/2012	Sevilla	0	2	Málaga	
+
+16/12/2012	Real Zaragoza	0	1	Levante	
+
+16/12/2012	Valencia	0	1	Rayo Vallecano	
+
+16/12/2012	Real Madrid	2	2	Espanyol	
+
+16/12/2012	Barcelona	4	1	Atlético de Madrid	
+
+17/12/2012	Deportivo de La Coruña	0	0	Valladolid	
+
+17/12/2012	Celta de Vigo	0	1	Betis	
+
+Jornada 17
+Data	Local	 	 	Visitant	
+20/12/2012	Rayo Vallecano	3	0	Levante	
+
+20/12/2012	Real Sociedad	2	1	Sevilla	
+
+20/12/2012	Espanyol	2	0	Deportivo de La Coruña	
+
+21/12/2012	Valencia	4	2	Getafe	
+
+21/12/2012	Atlético de Madrid	1	0	Celta de Vigo	
+
+22/12/2012	Betis	1	2	Mallorca	
+
+22/12/2012	Valladolid	1	3	Barcelona	
+
+22/12/2012	Osasuna	1	2	Granada	
+
+22/12/2012	Málaga	3	2	Real Madrid	
+
+22/12/2012	Athletic Club	0	2	Real Zaragoza	
+
+Jornada 18
+Data	Local	 	 	Visitant	
+04/01/2013	Real Zaragoza	1	2	Betis	
+
+05/01/2013	Levante	3	1	Athletic Club	
+
+05/01/2013	Granada	1	2	Valencia	
+
+05/01/2013	Deportivo de La Coruña	1	0	Málaga	
+
+05/01/2013	Sevilla	1	0	Osasuna	
+
+06/01/2013	Celta de Vigo	3	1	Valladolid	
+
+06/01/2013	Real Madrid	4	3	Real Sociedad	
+
+06/01/2013	Barcelona	4	0	Espanyol	
+
+06/01/2013	Mallorca	1	1	Atlético de Madrid	
+
+07/01/2013	Rayo Vallecano	3	1	Getafe	
+
+Jornada 19
+Data	Local	 	 	Visitant	
+11/01/2013	Athletic Club	1	2	Rayo Vallecano	
+
+12/01/2013	Valladolid	3	1	Mallorca	
+
+12/01/2013	Espanyol	1	0	Celta de Vigo	
+
+12/01/2013	Osasuna	0	0	Real Madrid	
+
+12/01/2013	Valencia	2	0	Sevilla	
+
+13/01/2013	Betis	2	0	Levante	
+
+13/01/2013	Real Sociedad	1	1	Deportivo de La Coruña	
+
+13/01/2013	Atlético de Madrid	2	0	Real Zaragoza	
+
+13/01/2013	Málaga	1	3	Barcelona	
+
+14/01/2013	Getafe	2	2	Granada	
+
+Jornada 20
+Data	Local	 	 	Visitant	
+18/01/2013	Espanyol	3	2	Mallorca	
+
+19/01/2013	Granada	2	0	Rayo Vallecano	
+
+19/01/2013	Real Sociedad	3	2	Barcelona	
+
+19/01/2013	Getafe	1	1	Sevilla	
+
+19/01/2013	Málaga	1	1	Celta de Vigo	
+
+20/01/2013	Osasuna	2	1	Deportivo de La Coruña	
+
+20/01/2013	Valladolid	2	0	Real Zaragoza	
+
+20/01/2013	Atlético de Madrid	2	0	Levante	
+
+20/01/2013	Valencia	0	5	Real Madrid	
+
+21/01/2013	Betis	1	1	Athletic Club	
+
+Jornada 21
+Data	Local	 	 	Visitant	
+26/01/2013	Celta de Vigo	1	1	Real Sociedad	
+
+26/01/2013	Levante	2	1	Valladolid	
+
+26/01/2013	Real Zaragoza	0	0	Espanyol	
+
+26/01/2013	Deportivo de La Coruña	2	3	Valencia	
+
+27/01/2013	Real Madrid	4	0	Getafe	
+
+27/01/2013	Rayo Vallecano	3	0	Betis	
+
+27/01/2013	Barcelona	5	1	Osasuna	
+
+27/01/2013	Athletic Club	3	0	Atlético de Madrid	
+
+27/01/2013	Mallorca	2	3	Málaga	
+
+28/01/2013	Sevilla	3	0	Granada	
+
+Jornada 22
+Data	Local	 	 	Visitant	
+01/02/2013	Valladolid	2	2	Athletic Club	
+
+02/02/2013	Osasuna	1	0	Celta de Vigo	
+
+02/02/2013	Getafe	3	1	Deportivo de La Coruña	
+
+02/02/2013	Espanyol	3	2	Levante	
+
+02/02/2013	Granada	1	0	Real Madrid	
+
+03/02/2013	Málaga	1	1	Real Zaragoza	
+
+03/02/2013	Sevilla	2	1	Rayo Vallecano	
+
+03/02/2013	Valencia	1	1	Barcelona	
+
+03/02/2013	Atlético de Madrid	1	0	Betis	
+
+03/02/2013	Real Sociedad	3	0	Mallorca	
+
+Jornada 23
+Data	Local	 	 	Visitant	
+09/02/2013	Mallorca	1	1	Osasuna	
+
+09/02/2013	Celta de Vigo	0	1	Valencia	
+
+09/02/2013	Levante	1	2	Málaga	
+
+09/02/2013	Deportivo de La Coruña	0	3	Granada	
+
+09/02/2013	Real Madrid	4	1	Sevilla	
+
+10/02/2013	Barcelona	6	1	Getafe	
+
+10/02/2013	Real Zaragoza	1	2	Real Sociedad	
+
+10/02/2013	Athletic Club	0	4	Espanyol	
+
+10/02/2013	Rayo Vallecano	2	1	Atlético de Madrid	
+
+11/02/2013	Betis	0	0	Valladolid	
+
+Jornada 24
+Data	Local	 	 	Visitant	
+15/02/2013	Sevilla	3	1	Deportivo de La Coruña	
+
+16/02/2013	Getafe	3	1	Celta de Vigo	
+
+16/02/2013	Málaga	1	0	Athletic Club	
+
+16/02/2013	Granada	1	2	Barcelona	
+
+16/02/2013	Osasuna	1	0	Real Zaragoza	
+
+17/02/2013	Real Sociedad	1	1	Levante	
+
+17/02/2013	Valencia	2	0	Mallorca	
+
+17/02/2013	Valladolid	0	3	Atlético de Madrid	
+
+17/02/2013	Espanyol	1	0	Betis	
+
+17/02/2013	Real Madrid	2	0	Rayo Vallecano	
+
+Jornada 25
+Data	Local	 	 	Visitant	
+22/02/2013	Athletic Club	1	3	Real Sociedad	
+
+23/02/2013	Mallorca	1	3	Getafe	
+
+23/02/2013	Real Zaragoza	2	2	Valencia	
+
+23/02/2013	Deportivo de La Coruña	1	2	Real Madrid	
+
+23/02/2013	Barcelona	2	1	Sevilla	
+
+24/02/2013	Rayo Vallecano	1	2	Valladolid	
+
+24/02/2013	Celta de Vigo	2	1	Granada	
+
+24/02/2013	Atlético de Madrid	1	0	Espanyol	
+
+24/02/2013	Betis	3	0	Málaga	
+
+25/02/2013	Levante	0	2	Osasuna	
+
+Jornada 26
+Data	Local	 	 	Visitant	
+01/03/2013	Getafe	2	0	Real Zaragoza	
+
+02/03/2013	Real Madrid	2	1	Barcelona	
+
+02/03/2013	Deportivo de La Coruña	0	0	Rayo Vallecano	
+
+02/03/2013	Osasuna	0	1	Athletic Club	
+
+02/03/2013	Valencia	2	2	Levante	
+
+03/03/2013	Granada	1	2	Mallorca	
+
+03/03/2013	Espanyol	0	0	Valladolid	
+
+03/03/2013	Málaga	0	0	Atlético de Madrid	
+
+03/03/2013	Real Sociedad	3	3	Betis	
+
+04/03/2013	Sevilla	4	1	Celta de Vigo	
+
+Jornada 27
+Data	Local	 	 	Visitant	
+08/03/2013	Betis	2	1	Osasuna	
+
+09/03/2013	Rayo Vallecano	2	0	Espanyol	
+
+09/03/2013	Valladolid	1	1	Málaga	
+
+09/03/2013	Barcelona	2	0	Deportivo de La Coruña	
+
+09/03/2013	Mallorca	2	1	Sevilla	
+
+10/03/2013	Athletic Club	1	0	Valencia	
+
+10/03/2013	Levante	0	0	Getafe	
+
+10/03/2013	Celta de Vigo	1	2	Real Madrid	
+
+10/03/2013	Atlético de Madrid	0	1	Real Sociedad	
+
+11/03/2013	Real Zaragoza	0	0	Granada	
+
+Jornada 28
+Data	Local	 	 	Visitant	
+15/03/2013	Deportivo de La Coruña	3	1	Celta de Vigo	
+
+16/03/2013	Real Sociedad	4	1	Valladolid	
+
+16/03/2013	Getafe	1	0	Athletic Club	
+
+16/03/2013	Real Madrid	5	2	Mallorca	
+
+16/03/2013	Valencia	3	0	Betis	
+
+17/03/2013	Málaga	0	2	Espanyol	
+
+17/03/2013	Sevilla	4	0	Real Zaragoza	
+
+17/03/2013	Osasuna	0	2	Atlético de Madrid	
+
+17/03/2013	Granada	1	1	Levante	
+
+17/03/2013	Barcelona	3	1	Rayo Vallecano	
+
+Jornada 29
+Data	Local	 	 	Visitant	
+30/03/2013	Rayo Vallecano	1	3	Málaga	
+
+30/03/2013	Celta de Vigo	2	2	Barcelona	
+
+30/03/2013	Real Zaragoza	1	1	Real Madrid	
+
+30/03/2013	Levante	1	0	Sevilla	
+
+31/03/2013	Valladolid	1	3	Osasuna	
+
+31/03/2013	Mallorca	2	3	Deportivo de La Coruña	
+
+31/03/2013	Espanyol	2	2	Real Sociedad	
+
+31/03/2013	Atlético de Madrid	1	1	Valencia	
+
+01/04/2013	Athletic Club	1	0	Granada	
+
+01/04/2013	Betis	0	0	Getafe	
+
+Jornada 30
+Data	Local	 	 	Visitant	
+05/04/2013	Granada	1	5	Betis	
+
+06/04/2013	Real Sociedad	4	2	Málaga	
+
+06/04/2013	Real Madrid	5	1	Levante	
+
+06/04/2013	Deportivo de La Coruña	3	2	Real Zaragoza	
+
+06/04/2013	Barcelona	5	0	Mallorca	
+
+07/04/2013	Celta de Vigo	0	2	Rayo Vallecano	
+
+07/04/2013	Osasuna	0	2	Espanyol	
+
+07/04/2013	Getafe	0	0	Atlético de Madrid	
+
+07/04/2013	Valencia	2	1	Valladolid	
+
+08/04/2013	Sevilla	2	1	Athletic Club	
+
+Jornada 31
+Data	Local	 	 	Visitant	
+12/04/2013	Betis	3	3	Sevilla	
+
+13/04/2013	Valladolid	2	1	Getafe	
+
+13/04/2013	Levante	0	4	Deportivo de La Coruña	
+
+13/04/2013	Espanyol	3	3	Valencia	
+
+13/04/2013	Málaga	1	0	Osasuna	
+
+14/04/2013	Rayo Vallecano	0	2	Real Sociedad	
+
+14/04/2013	Atlético de Madrid	5	0	Granada	
+
+14/04/2013	Real Zaragoza	0	3	Barcelona	
+
+14/04/2013	Athletic Club	0	3	Real Madrid	
+
+15/04/2013	Mallorca	1	0	Celta de Vigo	
+
+Jornada 32
+Data	Local	 	 	Visitant	
+19/04/2013	Mallorca	1	1	Rayo Vallecano	
+
+20/04/2013	Granada	1	1	Valladolid	
+
+20/04/2013	Real Madrid	3	1	Betis	
+
+20/04/2013	Barcelona	1	0	Levante	
+
+20/04/2013	Valencia	5	1	Málaga	
+
+21/04/2013	Getafe	0	2	Espanyol	
+
+21/04/2013	Deportivo de La Coruña	1	1	Athletic Club	
+
+21/04/2013	Osasuna	0	0	Real Sociedad	
+
+21/04/2013	Sevilla	0	1	Atlético de Madrid	
+
+22/04/2013	Celta de Vigo	2	1	Real Zaragoza	
+
+Jornada 33
+Data	Local	 	 	Visitant	
+26/04/2013	Rayo Vallecano	2	2	Osasuna	
+
+27/04/2013	Levante	0	1	Celta de Vigo	
+
+27/04/2013	Athletic Club	2	2	Barcelona	
+
+27/04/2013	Atlético de Madrid	1	2	Real Madrid	
+
+27/04/2013	Real Zaragoza	3	2	Mallorca	
+
+28/04/2013	Espanyol	0	1	Granada	
+
+28/04/2013	Málaga	2	1	Getafe	
+
+28/04/2013	Valladolid	1	1	Sevilla	
+
+28/04/2013	Real Sociedad	4	2	Valencia	
+
+29/04/2013	Betis	1	1	Deportivo de La Coruña	
+
+Jornada 34
+Data	Local	 	 	Visitant	
+03/05/2013	Celta de Vigo	1	1	Athletic Club	
+
+04/05/2013	Valencia	4	0	Osasuna	
+
+04/05/2013	Granada	1	0	Málaga	
+
+04/05/2013	Real Madrid	4	3	Valladolid	
+
+04/05/2013	Deportivo de La Coruña	0	0	Atlético de Madrid	
+
+05/05/2013	Mallorca	1	1	Levante	
+
+05/05/2013	Real Zaragoza	3	0	Rayo Vallecano	
+
+05/05/2013	Sevilla	3	0	Espanyol	
+
+05/05/2013	Barcelona	4	2	Betis	
+
+06/05/2013	Getafe	2	1	Real Sociedad	
+
+Jornada 35
+Data	Local	 	 	Visitant	
+10/05/2013	Levante	0	0	Real Zaragoza	
+
+11/05/2013	Athletic Club	2	1	Mallorca	
+
+11/05/2013	Valladolid	1	0	Deportivo de La Coruña	
+
+11/05/2013	Osasuna	1	0	Getafe	
+
+11/05/2013	Espanyol	1	1	Real Madrid	
+
+12/05/2013	Rayo Vallecano	0	4	Valencia	
+
+12/05/2013	Betis	1	0	Celta de Vigo	
+
+12/05/2013	Atlético de Madrid	1	2	Barcelona	
+
+12/05/2013	Málaga	0	0	Sevilla	
+
+13/05/2013	Real Sociedad	2	2	Granada	
+
+Jornada 36
+Data	Local	 	 	Visitant	
+08/05/2013	Celta de Vigo	1	3	Atlético de Madrid	
+
+08/05/2013	Real Madrid	6	2	Málaga	
+
+18/05/2013	Getafe	0	1	Valencia	
+
+18/05/2013	Granada	3	0	Osasuna	
+
+18/05/2013	Sevilla	1	2	Real Sociedad	
+
+19/05/2013	Levante	2	3	Rayo Vallecano	
+
+19/05/2013	Deportivo de La Coruña	2	0	Espanyol	
+
+19/05/2013	Real Zaragoza	1	2	Athletic Club	
+
+19/05/2013	Barcelona	2	1	Valladolid	
+
+20/05/2013	Mallorca	1	0	Betis	
+
+Jornada 37
+Data	Local	 	 	Visitant	
+26/05/2013	Getafe	1	2	Rayo Vallecano	
+
+26/05/2013	Valencia	1	0	Granada	
+
+26/05/2013	Osasuna	2	1	Sevilla	
+
+26/05/2013	Real Sociedad	3	3	Real Madrid	
+
+26/05/2013	Málaga	3	1	Deportivo de La Coruña	
+
+26/05/2013	Espanyol	0	2	Barcelona	
+
+26/05/2013	Valladolid	0	2	Celta de Vigo	
+
+26/05/2013	Atlético de Madrid	0	0	Mallorca	
+
+26/05/2013	Betis	4	0	Real Zaragoza	
+
+26/05/2013	Athletic Club	0	1	Levante	
+
+Jornada 38
+Data	Local	 	 	Visitant	
+01/06/2013	Real Madrid	4	2	Osasuna	
+
+01/06/2013	Barcelona	4	1	Málaga	
+
+01/06/2013	Granada	2	0	Getafe	
+
+01/06/2013	Sevilla	4	3	Valencia	
+
+01/06/2013	Deportivo de La Coruña	0	1	Real Sociedad	
+
+01/06/2013	Celta de Vigo	1	0	Espanyol	
+
+01/06/2013	Mallorca	4	2	Valladolid	
+
+01/06/2013	Real Zaragoza	1	3	Atlético de Madrid	
+
+01/06/2013	Levante	1	1	Betis	
+
+01/06/2013	Rayo Vallecano	2	2	Athletic Club	
+

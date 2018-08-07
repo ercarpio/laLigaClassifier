@@ -21,3 +21,12 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+.idea
+data/Predictions
+*.xlsx
+data/ProcessedData/old
+*.jar
+*.png
+out
+*.iml

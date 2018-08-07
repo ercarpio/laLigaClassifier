@@ -1,0 +1,813 @@
+Jornada 1
+Data	Local	 	 	Visitant	
+21/08/2015	Málaga	0	0	Sevilla	
+
+22/08/2015	Deportivo de La Coruña	0	0	Real Sociedad	
+
+22/08/2015	Espanyol	1	0	Getafe	
+
+22/08/2015	Atlético de Madrid	1	0	Las Palmas	
+
+22/08/2015	Rayo Vallecano	0	0	Valencia	
+
+23/08/2015	Athletic Club	0	1	Barcelona	
+
+23/08/2015	Sporting de Gijón	0	0	Real Madrid	
+
+23/08/2015	Levante	1	2	Celta de Vigo	
+
+23/08/2015	Betis	1	1	Villarreal	
+
+24/08/2015	Granada	1	3	Eibar	
+
+Jornada 2
+Data	Local	 	 	Visitant	
+28/08/2015	Villarreal	3	1	Espanyol	
+
+29/08/2015	Real Sociedad	0	0	Sporting de Gijón	
+
+29/08/2015	Barcelona	1	0	Málaga	
+
+29/08/2015	Celta de Vigo	3	0	Rayo Vallecano	
+
+29/08/2015	Real Madrid	5	0	Betis	
+
+30/08/2015	Eibar	2	0	Athletic Club	
+
+30/08/2015	Valencia	1	1	Deportivo de La Coruña	
+
+30/08/2015	Sevilla	0	3	Atlético de Madrid	
+
+30/08/2015	Las Palmas	0	0	Levante	
+
+30/08/2015	Getafe	1	2	Granada	
+
+Jornada 3
+Data	Local	 	 	Visitant	
+11/09/2015	Levante	1	1	Sevilla	
+
+12/09/2015	Espanyol	0	6	Real Madrid	
+
+12/09/2015	Sporting de Gijón	0	1	Valencia	
+
+12/09/2015	Atlético de Madrid	1	2	Barcelona	
+
+12/09/2015	Betis	1	0	Real Sociedad	
+
+13/09/2015	Granada	1	3	Villarreal	
+
+13/09/2015	Athletic Club	3	1	Getafe	
+
+13/09/2015	Celta de Vigo	3	3	Las Palmas	
+
+13/09/2015	Málaga	0	0	Eibar	
+
+14/09/2015	Rayo Vallecano	1	3	Deportivo de La Coruña	
+
+Jornada 4
+Data	Local	 	 	Visitant	
+18/09/2015	Getafe	1	0	Málaga	
+
+19/09/2015	Real Madrid	1	0	Granada	
+
+19/09/2015	Valencia	0	0	Betis	
+
+19/09/2015	Eibar	0	2	Atlético de Madrid	
+
+19/09/2015	Real Sociedad	2	3	Espanyol	
+
+20/09/2015	Sevilla	1	2	Celta de Vigo	
+
+20/09/2015	Deportivo de La Coruña	2	3	Sporting de Gijón	
+
+20/09/2015	Villarreal	3	1	Athletic Club	
+
+20/09/2015	Barcelona	4	1	Levante	
+
+20/09/2015	Las Palmas	0	1	Rayo Vallecano	
+
+Jornada 5
+Data	Local	 	 	Visitant	
+22/09/2015	Espanyol	1	0	Valencia	
+
+22/09/2015	Atlético de Madrid	2	0	Getafe	
+
+22/09/2015	Granada	0	3	Real Sociedad	
+
+23/09/2015	Levante	2	2	Eibar	
+
+23/09/2015	Celta de Vigo	4	1	Barcelona	
+
+23/09/2015	Rayo Vallecano	2	1	Sporting de Gijón	
+
+23/09/2015	Athletic Club	1	2	Real Madrid	
+
+23/09/2015	Málaga	0	1	Villarreal	
+
+23/09/2015	Las Palmas	2	0	Sevilla	
+
+24/09/2015	Betis	1	2	Deportivo de La Coruña	
+
+Jornada 6
+Data	Local	 	 	Visitant	
+25/09/2015	Valencia	1	0	Granada	
+
+26/09/2015	Barcelona	2	1	Las Palmas	
+
+26/09/2015	Real Madrid	0	0	Málaga	
+
+26/09/2015	Villarreal	1	0	Atlético de Madrid	
+
+26/09/2015	Sevilla	3	2	Rayo Vallecano	
+
+26/09/2015	Eibar	1	1	Celta de Vigo	
+
+27/09/2015	Sporting de Gijón	1	2	Betis	
+
+27/09/2015	Deportivo de La Coruña	3	0	Espanyol	
+
+27/09/2015	Getafe	3	0	Levante	
+
+27/09/2015	Real Sociedad	0	0	Athletic Club	
+
+Jornada 7
+Data	Local	 	 	Visitant	
+02/10/2015	Celta de Vigo	0	0	Getafe	
+
+03/10/2015	Sevilla	2	1	Barcelona	
+
+03/10/2015	Granada	1	1	Deportivo de La Coruña	
+
+03/10/2015	Espanyol	1	2	Sporting de Gijón	
+
+03/10/2015	Las Palmas	0	2	Eibar	
+
+03/10/2015	Málaga	3	1	Real Sociedad	
+
+04/10/2015	Rayo Vallecano	0	2	Betis	
+
+04/10/2015	Athletic Club	3	1	Valencia	
+
+04/10/2015	Levante	1	0	Villarreal	
+
+04/10/2015	Atlético de Madrid	1	1	Real Madrid	
+
+Jornada 8
+Data	Local	 	 	Visitant	
+17/10/2015	Real Madrid	3	0	Levante	
+
+17/10/2015	Eibar	1	1	Sevilla	
+
+17/10/2015	Barcelona	5	2	Rayo Vallecano	
+
+17/10/2015	Valencia	3	0	Málaga	
+
+17/10/2015	Betis	1	3	Espanyol	
+
+18/10/2015	Villarreal	1	2	Celta de Vigo	
+
+18/10/2015	Real Sociedad	0	2	Atlético de Madrid	
+
+18/10/2015	Getafe	4	0	Las Palmas	
+
+18/10/2015	Deportivo de La Coruña	2	2	Athletic Club	
+
+19/10/2015	Sporting de Gijón	3	3	Granada	
+
+Jornada 9
+Data	Local	 	 	Visitant	
+23/10/2015	Rayo Vallecano	3	0	Espanyol	
+
+24/10/2015	Celta de Vigo	1	3	Real Madrid	
+
+24/10/2015	Granada	1	1	Betis	
+
+24/10/2015	Sevilla	5	0	Getafe	
+
+24/10/2015	Málaga	2	0	Deportivo de La Coruña	
+
+25/10/2015	Levante	0	4	Real Sociedad	
+
+25/10/2015	Las Palmas	0	0	Villarreal	
+
+25/10/2015	Barcelona	3	1	Eibar	
+
+25/10/2015	Atlético de Madrid	2	1	Valencia	
+
+26/10/2015	Athletic Club	3	0	Sporting de Gijón	
+
+Jornada 10
+Data	Local	 	 	Visitant	
+30/10/2015	Deportivo de La Coruña	1	1	Atlético de Madrid	
+
+31/10/2015	Real Madrid	3	1	Las Palmas	
+
+31/10/2015	Valencia	3	0	Levante	
+
+31/10/2015	Villarreal	2	1	Sevilla	
+
+31/10/2015	Getafe	0	2	Barcelona	
+
+31/10/2015	Real Sociedad	2	3	Celta de Vigo	
+
+01/11/2015	Eibar	1	0	Rayo Vallecano	
+
+01/11/2015	Espanyol	1	1	Granada	
+
+01/11/2015	Sporting de Gijón	1	0	Málaga	
+
+01/11/2015	Betis	1	3	Athletic Club	
+
+Jornada 11
+Data	Local	 	 	Visitant	
+06/11/2015	Las Palmas	2	0	Real Sociedad	
+
+07/11/2015	Celta de Vigo	1	5	Valencia	
+
+07/11/2015	Levante	1	1	Deportivo de La Coruña	
+
+07/11/2015	Eibar	3	1	Getafe	
+
+07/11/2015	Rayo Vallecano	2	1	Granada	
+
+07/11/2015	Málaga	0	1	Betis	
+
+08/11/2015	Athletic Club	2	1	Espanyol	
+
+08/11/2015	Barcelona	3	0	Villarreal	
+
+08/11/2015	Atlético de Madrid	1	0	Sporting de Gijón	
+
+08/11/2015	Sevilla	3	2	Real Madrid	
+
+Jornada 12
+Data	Local	 	 	Visitant	
+21/11/2015	Real Sociedad	2	0	Sevilla	
+
+21/11/2015	Real Madrid	0	4	Barcelona	
+
+21/11/2015	Espanyol	2	0	Málaga	
+
+21/11/2015	Valencia	1	1	Las Palmas	
+
+21/11/2015	Deportivo de La Coruña	2	0	Celta de Vigo	
+
+22/11/2015	Sporting de Gijón	0	3	Levante	
+
+22/11/2015	Villarreal	1	1	Eibar	
+
+22/11/2015	Granada	2	0	Athletic Club	
+
+22/11/2015	Betis	0	1	Atlético de Madrid	
+
+23/11/2015	Getafe	1	1	Rayo Vallecano	
+
+Jornada 13
+Data	Local	 	 	Visitant	
+27/11/2015	Levante	0	1	Betis	
+
+28/11/2015	Barcelona	4	0	Real Sociedad	
+
+28/11/2015	Atlético de Madrid	1	0	Espanyol	
+
+28/11/2015	Málaga	2	2	Granada	
+
+28/11/2015	Las Palmas	0	2	Deportivo de La Coruña	
+
+28/11/2015	Celta de Vigo	2	1	Sporting de Gijón	
+
+29/11/2015	Getafe	2	0	Villarreal	
+
+29/11/2015	Eibar	0	2	Real Madrid	
+
+29/11/2015	Rayo Vallecano	0	3	Athletic Club	
+
+29/11/2015	Sevilla	1	0	Valencia	
+
+Jornada 14
+Data	Local	 	 	Visitant	
+05/12/2015	Real Madrid	4	1	Getafe	
+
+05/12/2015	Granada	0	2	Atlético de Madrid	
+
+05/12/2015	Valencia	1	1	Barcelona	
+
+05/12/2015	Deportivo de La Coruña	1	1	Sevilla	
+
+05/12/2015	Betis	1	1	Celta de Vigo	
+
+06/12/2015	Real Sociedad	2	1	Eibar	
+
+06/12/2015	Villarreal	2	1	Rayo Vallecano	
+
+06/12/2015	Sporting de Gijón	3	1	Las Palmas	
+
+06/12/2015	Athletic Club	0	0	Málaga	
+
+07/12/2015	Espanyol	1	1	Levante	
+
+Jornada 15
+Data	Local	 	 	Visitant	
+11/12/2015	Getafe	1	1	Real Sociedad	
+
+12/12/2015	Barcelona	2	2	Deportivo de La Coruña	
+
+12/12/2015	Levante	1	2	Granada	
+
+12/12/2015	Celta de Vigo	1	0	Espanyol	
+
+12/12/2015	Sevilla	2	0	Sporting de Gijón	
+
+12/12/2015	Las Palmas	1	0	Betis	
+
+13/12/2015	Rayo Vallecano	1	2	Málaga	
+
+13/12/2015	Eibar	1	1	Valencia	
+
+13/12/2015	Atlético de Madrid	2	1	Athletic Club	
+
+13/12/2015	Villarreal	1	0	Real Madrid	
+
+Jornada 16
+Data	Local	 	 	Visitant	
+19/12/2015	Valencia	2	2	Getafe	
+
+19/12/2015	Espanyol	1	0	Las Palmas	
+
+19/12/2015	Betis	0	0	Sevilla	
+
+19/12/2015	Deportivo de La Coruña	2	0	Eibar	
+
+20/12/2015	Real Madrid	10	2	Rayo Vallecano	
+
+20/12/2015	Real Sociedad	0	2	Villarreal	
+
+20/12/2015	Athletic Club	2	0	Levante	
+
+20/12/2015	Granada	0	2	Celta de Vigo	
+
+20/12/2015	Málaga	1	0	Atlético de Madrid	
+
+17/02/2016	Sporting de Gijón	1	3	Barcelona	
+
+Jornada 17
+Data	Local	 	 	Visitant	
+30/12/2015	Levante	0	1	Málaga	
+
+30/12/2015	Real Madrid	3	1	Real Sociedad	
+
+30/12/2015	Rayo Vallecano	0	2	Atlético de Madrid	
+
+30/12/2015	Sevilla	2	0	Espanyol	
+
+30/12/2015	Eibar	2	0	Sporting de Gijón	
+
+30/12/2015	Barcelona	4	0	Betis	
+
+30/12/2015	Celta de Vigo	0	1	Athletic Club	
+
+30/12/2015	Getafe	0	0	Deportivo de La Coruña	
+
+30/12/2015	Las Palmas	4	1	Granada	
+
+31/12/2015	Villarreal	1	0	Valencia	
+
+Jornada 18
+Data	Local	 	 	Visitant	
+02/01/2016	Espanyol	0	0	Barcelona	
+
+02/01/2016	Atlético de Madrid	1	0	Levante	
+
+02/01/2016	Málaga	2	0	Celta de Vigo	
+
+03/01/2016	Rayo Vallecano	2	2	Real Sociedad	
+
+03/01/2016	Betis	0	4	Eibar	
+
+03/01/2016	Granada	2	1	Sevilla	
+
+03/01/2016	Deportivo de La Coruña	1	2	Villarreal	
+
+03/01/2016	Athletic Club	2	2	Las Palmas	
+
+03/01/2016	Valencia	2	2	Real Madrid	
+
+04/01/2016	Sporting de Gijón	1	2	Getafe	
+
+Jornada 19
+Data	Local	 	 	Visitant	
+09/01/2016	Barcelona	4	0	Granada	
+
+09/01/2016	Getafe	1	0	Betis	
+
+09/01/2016	Sevilla	2	0	Athletic Club	
+
+09/01/2016	Real Madrid	5	0	Deportivo de La Coruña	
+
+09/01/2016	Levante	2	1	Rayo Vallecano	
+
+10/01/2016	Villarreal	2	0	Sporting de Gijón	
+
+10/01/2016	Real Sociedad	2	0	Valencia	
+
+10/01/2016	Eibar	2	1	Espanyol	
+
+10/01/2016	Las Palmas	1	1	Málaga	
+
+10/01/2016	Celta de Vigo	0	2	Atlético de Madrid	
+
+Jornada 20
+Data	Local	 	 	Visitant	
+16/01/2016	Sevilla	2	1	Málaga	
+
+16/01/2016	Celta de Vigo	4	3	Levante	
+
+16/01/2016	Villarreal	0	0	Betis	
+
+16/01/2016	Real Sociedad	1	1	Deportivo de La Coruña	
+
+17/01/2016	Valencia	2	2	Rayo Vallecano	
+
+17/01/2016	Real Madrid	5	1	Sporting de Gijón	
+
+17/01/2016	Getafe	3	1	Espanyol	
+
+17/01/2016	Las Palmas	0	3	Atlético de Madrid	
+
+17/01/2016	Barcelona	6	0	Athletic Club	
+
+18/01/2016	Eibar	5	1	Granada	
+
+Jornada 21
+Data	Local	 	 	Visitant	
+22/01/2016	Sporting de Gijón	5	1	Real Sociedad	
+
+23/01/2016	Málaga	1	2	Barcelona	
+
+23/01/2016	Espanyol	2	2	Villarreal	
+
+23/01/2016	Granada	3	2	Getafe	
+
+23/01/2016	Rayo Vallecano	3	0	Celta de Vigo	
+
+24/01/2016	Athletic Club	5	2	Eibar	
+
+24/01/2016	Atlético de Madrid	0	0	Sevilla	
+
+24/01/2016	Deportivo de La Coruña	1	1	Valencia	
+
+24/01/2016	Betis	1	1	Real Madrid	
+
+25/01/2016	Levante	3	2	Las Palmas	
+
+Jornada 22
+Data	Local	 	 	Visitant	
+30/01/2016	Barcelona	2	1	Atlético de Madrid	
+
+30/01/2016	Eibar	1	2	Málaga	
+
+30/01/2016	Getafe	0	1	Athletic Club	
+
+30/01/2016	Villarreal	1	0	Granada	
+
+30/01/2016	Real Sociedad	2	1	Betis	
+
+31/01/2016	Sevilla	3	1	Levante	
+
+31/01/2016	Valencia	0	1	Sporting de Gijón	
+
+31/01/2016	Las Palmas	2	1	Celta de Vigo	
+
+31/01/2016	Real Madrid	6	0	Espanyol	
+
+01/02/2016	Deportivo de La Coruña	2	2	Rayo Vallecano	
+
+Jornada 23
+Data	Local	 	 	Visitant	
+05/02/2016	Málaga	3	0	Getafe	
+
+06/02/2016	Atlético de Madrid	3	1	Eibar	
+
+06/02/2016	Rayo Vallecano	2	0	Las Palmas	
+
+06/02/2016	Athletic Club	0	0	Villarreal	
+
+06/02/2016	Sporting de Gijón	1	1	Deportivo de La Coruña	
+
+07/02/2016	Levante	0	2	Barcelona	
+
+07/02/2016	Betis	1	0	Valencia	
+
+07/02/2016	Celta de Vigo	1	1	Sevilla	
+
+07/02/2016	Granada	1	2	Real Madrid	
+
+08/02/2016	Espanyol	0	5	Real Sociedad	
+
+Jornada 24
+Data	Local	 	 	Visitant	
+12/02/2016	Sporting de Gijón	2	2	Rayo Vallecano	
+
+13/02/2016	Real Madrid	4	2	Athletic Club	
+
+13/02/2016	Villarreal	1	0	Málaga	
+
+13/02/2016	Valencia	2	1	Espanyol	
+
+13/02/2016	Deportivo de La Coruña	2	2	Betis	
+
+14/02/2016	Real Sociedad	3	0	Granada	
+
+14/02/2016	Sevilla	2	0	Las Palmas	
+
+14/02/2016	Getafe	0	1	Atlético de Madrid	
+
+14/02/2016	Eibar	2	0	Levante	
+
+14/02/2016	Barcelona	6	1	Celta de Vigo	
+
+Jornada 25
+Data	Local	 	 	Visitant	
+19/02/2016	Levante	3	0	Getafe	
+
+20/02/2016	Las Palmas	1	2	Barcelona	
+
+20/02/2016	Espanyol	1	0	Deportivo de La Coruña	
+
+20/02/2016	Betis	1	1	Sporting de Gijón	
+
+20/02/2016	Celta de Vigo	3	2	Eibar	
+
+21/02/2016	Rayo Vallecano	2	2	Sevilla	
+
+21/02/2016	Málaga	1	1	Real Madrid	
+
+21/02/2016	Athletic Club	0	1	Real Sociedad	
+
+21/02/2016	Granada	1	2	Valencia	
+
+21/02/2016	Atlético de Madrid	0	0	Villarreal	
+
+Jornada 26
+Data	Local	 	 	Visitant	
+26/02/2016	Eibar	0	1	Las Palmas	
+
+27/02/2016	Real Madrid	0	1	Atlético de Madrid	
+
+27/02/2016	Sporting de Gijón	2	4	Espanyol	
+
+27/02/2016	Getafe	0	1	Celta de Vigo	
+
+27/02/2016	Betis	2	2	Rayo Vallecano	
+
+27/02/2016	Real Sociedad	1	1	Málaga	
+
+28/02/2016	Villarreal	3	0	Levante	
+
+28/02/2016	Valencia	0	3	Athletic Club	
+
+28/02/2016	Deportivo de La Coruña	0	1	Granada	
+
+28/02/2016	Barcelona	2	1	Sevilla	
+
+Jornada 27
+Data	Local	 	 	Visitant	
+01/03/2016	Atlético de Madrid	3	0	Real Sociedad	
+
+01/03/2016	Las Palmas	4	0	Getafe	
+
+02/03/2016	Athletic Club	4	1	Deportivo de La Coruña	
+
+02/03/2016	Sevilla	1	0	Eibar	
+
+02/03/2016	Celta de Vigo	0	0	Villarreal	
+
+02/03/2016	Málaga	1	2	Valencia	
+
+02/03/2016	Levante	1	3	Real Madrid	
+
+03/03/2016	Granada	2	0	Sporting de Gijón	
+
+03/03/2016	Espanyol	0	3	Betis	
+
+03/03/2016	Rayo Vallecano	1	5	Barcelona	
+
+Jornada 28
+Data	Local	 	 	Visitant	
+05/03/2016	Real Madrid	7	1	Celta de Vigo	
+
+05/03/2016	Villarreal	0	1	Las Palmas	
+
+05/03/2016	Getafe	1	1	Sevilla	
+
+05/03/2016	Deportivo de La Coruña	3	3	Málaga	
+
+06/03/2016	Betis	2	0	Granada	
+
+06/03/2016	Eibar	0	4	Barcelona	
+
+06/03/2016	Real Sociedad	1	1	Levante	
+
+06/03/2016	Sporting de Gijón	0	2	Athletic Club	
+
+06/03/2016	Valencia	1	3	Atlético de Madrid	
+
+07/03/2016	Espanyol	2	1	Rayo Vallecano	
+
+Jornada 29
+Data	Local	 	 	Visitant	
+11/03/2016	Málaga	1	0	Sporting de Gijón	
+
+12/03/2016	Barcelona	6	0	Getafe	
+
+12/03/2016	Celta de Vigo	1	0	Real Sociedad	
+
+12/03/2016	Atlético de Madrid	3	0	Deportivo de La Coruña	
+
+12/03/2016	Rayo Vallecano	1	1	Eibar	
+
+13/03/2016	Levante	1	0	Valencia	
+
+13/03/2016	Sevilla	4	2	Villarreal	
+
+13/03/2016	Athletic Club	3	1	Betis	
+
+13/03/2016	Las Palmas	1	2	Real Madrid	
+
+14/03/2016	Granada	1	1	Espanyol	
+
+Jornada 30
+Data	Local	 	 	Visitant	
+18/03/2016	Getafe	1	1	Eibar	
+
+19/03/2016	Sporting de Gijón	2	1	Atlético de Madrid	
+
+19/03/2016	Real Sociedad	0	1	Las Palmas	
+
+19/03/2016	Granada	2	2	Rayo Vallecano	
+
+19/03/2016	Deportivo de La Coruña	2	1	Levante	
+
+19/03/2016	Betis	0	1	Málaga	
+
+20/03/2016	Espanyol	2	1	Athletic Club	
+
+20/03/2016	Villarreal	2	2	Barcelona	
+
+20/03/2016	Valencia	0	2	Celta de Vigo	
+
+20/03/2016	Real Madrid	4	0	Sevilla	
+
+Jornada 31
+Data	Local	 	 	Visitant	
+01/04/2016	Rayo Vallecano	2	0	Getafe	
+
+02/04/2016	Atlético de Madrid	5	1	Betis	
+
+02/04/2016	Las Palmas	2	1	Valencia	
+
+02/04/2016	Barcelona	1	2	Real Madrid	
+
+02/04/2016	Celta de Vigo	1	1	Deportivo de La Coruña	
+
+03/04/2016	Athletic Club	1	1	Granada	
+
+03/04/2016	Málaga	1	1	Espanyol	
+
+03/04/2016	Eibar	1	2	Villarreal	
+
+03/04/2016	Sevilla	1	2	Real Sociedad	
+
+04/04/2016	Levante	0	0	Sporting de Gijón	
+
+Jornada 32
+Data	Local	 	 	Visitant	
+08/04/2016	Granada	0	0	Málaga	
+
+09/04/2016	Real Madrid	4	0	Eibar	
+
+09/04/2016	Espanyol	1	3	Atlético de Madrid	
+
+09/04/2016	Real Sociedad	1	0	Barcelona	
+
+09/04/2016	Betis	1	0	Levante	
+
+10/04/2016	Sporting de Gijón	0	1	Celta de Vigo	
+
+10/04/2016	Valencia	2	1	Sevilla	
+
+10/04/2016	Villarreal	2	0	Getafe	
+
+10/04/2016	Athletic Club	1	0	Rayo Vallecano	
+
+11/04/2016	Deportivo de La Coruña	1	3	Las Palmas	
+
+Jornada 33
+Data	Local	 	 	Visitant	
+15/04/2016	Levante	2	1	Espanyol	
+
+16/04/2016	Getafe	1	5	Real Madrid	
+
+16/04/2016	Las Palmas	1	1	Sporting de Gijón	
+
+16/04/2016	Eibar	2	1	Real Sociedad	
+
+16/04/2016	Celta de Vigo	1	1	Betis	
+
+17/04/2016	Málaga	0	1	Athletic Club	
+
+17/04/2016	Sevilla	1	1	Deportivo de La Coruña	
+
+17/04/2016	Atlético de Madrid	3	0	Granada	
+
+17/04/2016	Rayo Vallecano	2	1	Villarreal	
+
+17/04/2016	Barcelona	1	2	Valencia	
+
+Jornada 34
+Data	Local	 	 	Visitant	
+19/04/2016	Espanyol	1	1	Celta de Vigo	
+
+19/04/2016	Betis	1	0	Las Palmas	
+
+20/04/2016	Deportivo de La Coruña	0	8	Barcelona	
+
+20/04/2016	Valencia	4	0	Eibar	
+
+20/04/2016	Sporting de Gijón	2	1	Sevilla	
+
+20/04/2016	Athletic Club	0	1	Atlético de Madrid	
+
+20/04/2016	Málaga	1	1	Rayo Vallecano	
+
+20/04/2016	Real Madrid	3	0	Villarreal	
+
+21/04/2016	Real Sociedad	1	2	Getafe	
+
+21/04/2016	Granada	5	1	Levante	
+
+Jornada 35
+Data	Local	 	 	Visitant	
+22/04/2016	Las Palmas	4	0	Espanyol	
+
+23/04/2016	Rayo Vallecano	2	3	Real Madrid	
+
+23/04/2016	Atlético de Madrid	1	0	Málaga	
+
+23/04/2016	Barcelona	6	0	Sporting de Gijón	
+
+23/04/2016	Eibar	1	1	Deportivo de La Coruña	
+
+24/04/2016	Levante	2	2	Athletic Club	
+
+24/04/2016	Sevilla	2	0	Betis	
+
+24/04/2016	Getafe	2	2	Valencia	
+
+24/04/2016	Villarreal	0	0	Real Sociedad	
+
+25/04/2016	Celta de Vigo	2	1	Granada	
+
+Jornada 36
+Data	Local	 	 	Visitant	
+22/04/2016	Sporting de Gijón	2	0	Eibar	
+
+23/04/2016	Real Sociedad	0	1	Real Madrid	
+
+23/04/2016	Atlético de Madrid	1	0	Rayo Vallecano	
+
+23/04/2016	Betis	0	2	Barcelona	
+
+23/04/2016	Granada	3	2	Las Palmas	
+
+24/04/2016	Athletic Club	2	1	Celta de Vigo	
+
+24/04/2016	Espanyol	1	0	Sevilla	
+
+24/04/2016	Deportivo de La Coruña	0	2	Getafe	
+
+24/04/2016	Valencia	0	2	Villarreal	
+
+25/04/2016	Málaga	3	1	Levante	
+
+Jornada 37
+Data	Local	 	 	Visitant	
+08/05/2016	Eibar	1	1	Betis	
+
+08/05/2016	Villarreal	0	2	Deportivo de La Coruña	
+
+08/05/2016	Barcelona	5	0	Espanyol	
+
+08/05/2016	Sevilla	1	4	Granada	
+
+08/05/2016	Las Palmas	0	0	Athletic Club	
+
+08/05/2016	Celta de Vigo	1	0	Málaga	
+
+08/05/2016	Real Madrid	3	2	Valencia	
+
+08/05/2016	Getafe	1	1	Sporting de Gijón	
+
+08/05/2016	Levante	2	1	Atlético de Madrid	
+
+08/05/2016	Real Sociedad	2	1	Rayo Vallecano

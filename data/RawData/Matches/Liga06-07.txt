@@ -1,0 +1,836 @@
+Jornada 1
+Data	Local	 	 	Visitant	
+26/08/2006	Valencia	2	1	Betis	
+
+27/08/2006	Athletic Club	1	1	Real Sociedad	
+
+27/08/2006	Deportivo de La Coruña	3	2	Real Zaragoza	
+
+27/08/2006	Espanyol	0	1	Gimnàstic de Tarragona	
+
+27/08/2006	Recreativo de Huelva	1	1	Mallorca	
+
+27/08/2006	Osasuna	0	2	Getafe	
+
+27/08/2006	Racing de Santander	0	1	Atlético de Madrid	
+
+27/08/2006	Real Madrid	0	0	Villarreal	
+
+28/08/2006	Celta de Vigo	2	3	Barcelona	
+
+29/08/2006	Sevilla	4	0	Levante	
+
+Jornada 2
+Data	Local	 	 	Visitant	
+09/09/2006	Atlético de Madrid	0	1	Valencia	
+
+09/09/2006	Barcelona	3	0	Osasuna	
+
+10/09/2006	Betis	3	0	Athletic Club	
+
+10/09/2006	Getafe	1	0	Racing de Santander	
+
+10/09/2006	Levante	1	4	Real Madrid	
+
+10/09/2006	Mallorca	0	0	Deportivo de La Coruña	
+
+10/09/2006	Real Sociedad	1	3	Sevilla	
+
+10/09/2006	Gimnàstic de Tarragona	1	2	Celta de Vigo	
+
+10/09/2006	Villarreal	0	1	Recreativo de Huelva	
+
+10/09/2006	Real Zaragoza	3	0	Espanyol	
+
+Jornada 3
+Data	Local	 	 	Visitant	
+16/09/2006	Deportivo de La Coruña	2	0	Villarreal	
+
+17/09/2006	Athletic Club	1	4	Atlético de Madrid	
+
+17/09/2006	Espanyol	2	1	Celta de Vigo	
+
+17/09/2006	Recreativo de Huelva	0	1	Levante	
+
+17/09/2006	Osasuna	2	0	Gimnàstic de Tarragona	
+
+17/09/2006	Racing de Santander	0	3	Barcelona	
+
+17/09/2006	Real Madrid	2	0	Real Sociedad	
+
+17/09/2006	Sevilla	3	2	Betis	
+
+17/09/2006	Valencia	2	0	Getafe	
+
+17/09/2006	Real Zaragoza	2	0	Mallorca	
+
+Jornada 4
+Data	Local	 	 	Visitant	
+23/09/2006	Betis	0	1	Real Madrid	
+
+24/09/2006	Atlético de Madrid	2	1	Sevilla	
+
+24/09/2006	Barcelona	1	1	Valencia	
+
+24/09/2006	Celta de Vigo	0	2	Osasuna	
+
+24/09/2006	Getafe	0	0	Athletic Club	
+
+24/09/2006	Levante	2	0	Deportivo de La Coruña	
+
+24/09/2006	Mallorca	1	0	Espanyol	
+
+24/09/2006	Real Sociedad	2	3	Recreativo de Huelva	
+
+24/09/2006	Gimnàstic de Tarragona	2	2	Racing de Santander	
+
+24/09/2006	Villarreal	3	2	Real Zaragoza	
+
+Jornada 5
+Data	Local	 	 	Visitant	
+30/09/2006	Athletic Club	1	3	Barcelona	
+
+01/10/2006	Deportivo de La Coruña	2	0	Real Sociedad	
+
+01/10/2006	Espanyol	0	0	Osasuna	
+
+01/10/2006	Recreativo de Huelva	2	0	Betis	
+
+01/10/2006	Mallorca	1	2	Villarreal	
+
+01/10/2006	Racing de Santander	1	1	Celta de Vigo	
+
+01/10/2006	Real Madrid	1	1	Atlético de Madrid	
+
+01/10/2006	Sevilla	1	0	Getafe	
+
+01/10/2006	Valencia	4	0	Gimnàstic de Tarragona	
+
+01/10/2006	Real Zaragoza	2	2	Levante	
+
+Jornada 6
+Data	Local	 	 	Visitant	
+14/10/2006	Atlético de Madrid	2	1	Recreativo de Huelva	
+
+14/10/2006	Getafe	1	0	Real Madrid	
+
+15/10/2006	Barcelona	3	1	Sevilla	
+
+15/10/2006	Betis	1	1	Deportivo de La Coruña	
+
+15/10/2006	Celta de Vigo	3	2	Valencia	
+
+15/10/2006	Levante	0	1	Mallorca	
+
+15/10/2006	Osasuna	0	1	Racing de Santander	
+
+15/10/2006	Real Sociedad	1	3	Real Zaragoza	
+
+15/10/2006	Gimnàstic de Tarragona	2	3	Athletic Club	
+
+15/10/2006	Villarreal	0	0	Espanyol	
+
+Jornada 7
+Data	Local	 	 	Visitant	
+21/10/2006	Deportivo de La Coruña	1	0	Atlético de Madrid	
+
+21/10/2006	Villarreal	1	1	Levante	
+
+21/10/2006	Real Zaragoza	2	1	Betis	
+
+22/10/2006	Athletic Club	0	1	Celta de Vigo	
+
+22/10/2006	Espanyol	2	2	Racing de Santander	
+
+22/10/2006	Recreativo de Huelva	1	2	Getafe	
+
+22/10/2006	Mallorca	0	0	Real Sociedad	
+
+22/10/2006	Real Madrid	2	0	Barcelona	
+
+22/10/2006	Sevilla	2	1	Gimnàstic de Tarragona	
+
+22/10/2006	Valencia	1	0	Osasuna	
+
+Jornada 8
+Data	Local	 	 	Visitant	
+28/10/2006	Barcelona	3	0	Recreativo de Huelva	
+
+28/10/2006	Racing de Santander	1	0	Valencia	
+
+28/10/2006	Gimnàstic de Tarragona	1	3	Real Madrid	
+
+29/10/2006	Atlético de Madrid	0	1	Real Zaragoza	
+
+29/10/2006	Betis	0	1	Mallorca	
+
+29/10/2006	Celta de Vigo	1	2	Sevilla	
+
+29/10/2006	Getafe	2	0	Deportivo de La Coruña	
+
+29/10/2006	Levante	0	0	Espanyol	
+
+29/10/2006	Osasuna	1	1	Athletic Club	
+
+29/10/2006	Real Sociedad	0	1	Villarreal	
+
+Jornada 9
+Data	Local	 	 	Visitant	
+04/11/2006	Deportivo de La Coruña	1	1	Barcelona	
+
+04/11/2006	Levante	2	0	Real Sociedad	
+
+04/11/2006	Mallorca	0	0	Atlético de Madrid	
+
+05/11/2006	Athletic Club	0	0	Racing de Santander	
+
+05/11/2006	Espanyol	1	1	Valencia	
+
+05/11/2006	Recreativo de Huelva	2	1	Gimnàstic de Tarragona	
+
+05/11/2006	Real Madrid	1	2	Celta de Vigo	
+
+05/11/2006	Sevilla	2	0	Osasuna	
+
+05/11/2006	Villarreal	3	2	Betis	
+
+05/11/2006	Real Zaragoza	3	1	Getafe	
+
+Jornada 10
+Data	Local	 	 	Visitant	
+11/11/2006	Atlético de Madrid	3	1	Villarreal	
+
+11/11/2006	Valencia	1	1	Athletic Club	
+
+12/11/2006	Barcelona	3	1	Real Zaragoza	
+
+12/11/2006	Betis	2	1	Levante	
+
+12/11/2006	Celta de Vigo	1	2	Recreativo de Huelva	
+
+12/11/2006	Getafe	1	0	Mallorca	
+
+12/11/2006	Osasuna	1	4	Real Madrid	
+
+12/11/2006	Racing de Santander	0	0	Sevilla	
+
+12/11/2006	Real Sociedad	1	1	Espanyol	
+
+12/11/2006	Gimnàstic de Tarragona	0	0	Deportivo de La Coruña	
+
+Jornada 11
+Data	Local	 	 	Visitant	
+18/11/2006	Real Madrid	3	1	Racing de Santander	
+
+18/11/2006	Sevilla	3	0	Valencia	
+
+19/11/2006	Deportivo de La Coruña	0	1	Celta de Vigo	
+
+19/11/2006	Espanyol	3	2	Athletic Club	
+
+19/11/2006	Recreativo de Huelva	2	0	Osasuna	
+
+19/11/2006	Levante	0	3	Atlético de Madrid	
+
+19/11/2006	Mallorca	1	4	Barcelona	
+
+19/11/2006	Real Sociedad	0	0	Betis	
+
+19/11/2006	Villarreal	1	0	Getafe	
+
+19/11/2006	Real Zaragoza	3	0	Gimnàstic de Tarragona	
+
+Jornada 12
+Data	Local	 	 	Visitant	
+25/11/2006	Atlético de Madrid	1	1	Real Sociedad	
+
+25/11/2006	Barcelona	4	0	Villarreal	
+
+26/11/2006	Athletic Club	1	3	Sevilla	
+
+26/11/2006	Betis	1	1	Espanyol	
+
+26/11/2006	Celta de Vigo	1	1	Real Zaragoza	
+
+26/11/2006	Getafe	0	0	Levante	
+
+26/11/2006	Osasuna	4	1	Deportivo de La Coruña	
+
+26/11/2006	Racing de Santander	4	3	Recreativo de Huelva	
+
+26/11/2006	Gimnàstic de Tarragona	2	3	Mallorca	
+
+26/11/2006	Valencia	0	1	Real Madrid	
+
+Jornada 13
+Data	Local	 	 	Visitant	
+02/12/2006	Betis	0	1	Atlético de Madrid	
+
+02/12/2006	Recreativo de Huelva	2	0	Valencia	
+
+02/12/2006	Levante	1	1	Barcelona	
+
+03/12/2006	Deportivo de La Coruña	0	0	Racing de Santander	
+
+03/12/2006	Espanyol	2	1	Sevilla	
+
+03/12/2006	Mallorca	2	2	Celta de Vigo	
+
+03/12/2006	Real Sociedad	0	0	Getafe	
+
+03/12/2006	Real Madrid	2	1	Athletic Club	
+
+03/12/2006	Villarreal	2	0	Gimnàstic de Tarragona	
+
+03/12/2006	Real Zaragoza	1	2	Osasuna	
+
+Jornada 14
+Data	Local	 	 	Visitant	
+09/12/2006	Barcelona	1	0	Real Sociedad	
+
+09/12/2006	Sevilla	2	1	Real Madrid	
+
+10/12/2006	Athletic Club	4	2	Recreativo de Huelva	
+
+10/12/2006	Atlético de Madrid	1	2	Espanyol	
+
+10/12/2006	Celta de Vigo	1	1	Villarreal	
+
+10/12/2006	Getafe	1	1	Betis	
+
+10/12/2006	Osasuna	3	0	Mallorca	
+
+10/12/2006	Racing de Santander	0	2	Real Zaragoza	
+
+10/12/2006	Gimnàstic de Tarragona	2	1	Levante	
+
+10/12/2006	Valencia	4	0	Deportivo de La Coruña	
+
+Jornada 15
+Data	Local	 	 	Visitant	
+16/12/2006	Deportivo de La Coruña	0	2	Athletic Club	
+
+16/12/2006	Mallorca	1	2	Racing de Santander	
+
+16/12/2006	Real Zaragoza	0	1	Valencia	
+
+17/12/2006	Atlético de Madrid	1	0	Getafe	
+
+17/12/2006	Espanyol	0	1	Real Madrid	
+
+17/12/2006	Recreativo de Huelva	1	3	Sevilla	
+
+17/12/2006	Levante	1	1	Celta de Vigo	
+
+17/12/2006	Real Sociedad	3	2	Gimnàstic de Tarragona	
+
+17/12/2006	Villarreal	1	4	Osasuna	
+
+24/01/2007	Betis	1	1	Barcelona	
+
+Jornada 16
+Data	Local	 	 	Visitant	
+19/12/2006	Athletic Club	0	0	Real Zaragoza	
+
+19/12/2006	Valencia	3	1	Mallorca	
+
+20/12/2006	Celta de Vigo	0	0	Real Sociedad	
+
+20/12/2006	Getafe	0	1	Espanyol	
+
+20/12/2006	Osasuna	2	1	Levante	
+
+20/12/2006	Racing de Santander	2	1	Villarreal	
+
+20/12/2006	Real Madrid	0	3	Recreativo de Huelva	
+
+20/12/2006	Sevilla	4	0	Deportivo de La Coruña	
+
+20/12/2006	Gimnàstic de Tarragona	0	1	Betis	
+
+21/12/2006	Barcelona	1	1	Atlético de Madrid	
+
+Jornada 17
+Data	Local	 	 	Visitant	
+06/01/2007	Atlético de Madrid	0	0	Gimnàstic de Tarragona	
+
+06/01/2007	Real Sociedad	2	1	Osasuna	
+
+06/01/2007	Real Zaragoza	2	1	Sevilla	
+
+07/01/2007	Betis	1	0	Celta de Vigo	
+
+07/01/2007	Deportivo de La Coruña	2	0	Real Madrid	
+
+07/01/2007	Espanyol	0	1	Recreativo de Huelva	
+
+07/01/2007	Getafe	1	1	Barcelona	
+
+07/01/2007	Levante	2	0	Racing de Santander	
+
+07/01/2007	Mallorca	1	3	Athletic Club	
+
+07/01/2007	Villarreal	0	1	Valencia	
+
+Jornada 18
+Data	Local	 	 	Visitant	
+13/01/2007	Espanyol	3	1	Barcelona	
+
+13/01/2007	Valencia	3	0	Levante	
+
+14/01/2007	Athletic Club	0	1	Villarreal	
+
+14/01/2007	Celta de Vigo	1	3	Atlético de Madrid	
+
+14/01/2007	Recreativo de Huelva	1	1	Deportivo de La Coruña	
+
+14/01/2007	Osasuna	5	1	Betis	
+
+14/01/2007	Racing de Santander	1	0	Real Sociedad	
+
+14/01/2007	Real Madrid	1	0	Real Zaragoza	
+
+14/01/2007	Sevilla	1	2	Mallorca	
+
+14/01/2007	Gimnàstic de Tarragona	1	3	Getafe	
+
+Jornada 19
+Data	Local	 	 	Visitant	
+20/01/2007	Atlético de Madrid	1	0	Osasuna	
+
+20/01/2007	Villarreal	0	0	Sevilla	
+
+21/01/2007	Barcelona	3	0	Gimnàstic de Tarragona	
+
+21/01/2007	Betis	1	1	Racing de Santander	
+
+21/01/2007	Deportivo de La Coruña	0	0	Espanyol	
+
+21/01/2007	Getafe	1	0	Celta de Vigo	
+
+21/01/2007	Levante	0	0	Athletic Club	
+
+21/01/2007	Mallorca	0	1	Real Madrid	
+
+21/01/2007	Real Sociedad	0	1	Valencia	
+
+21/01/2007	Real Zaragoza	0	0	Recreativo de Huelva	
+
+Jornada 20
+Data	Local	 	 	Visitant	
+27/01/2007	Atlético de Madrid	1	1	Racing de Santander	
+
+27/01/2007	Villarreal	1	0	Real Madrid	
+
+28/01/2007	Barcelona	3	1	Celta de Vigo	
+
+28/01/2007	Betis	2	1	Valencia	
+
+28/01/2007	Getafe	2	0	Osasuna	
+
+28/01/2007	Levante	2	4	Sevilla	
+
+28/01/2007	Mallorca	2	1	Recreativo de Huelva	
+
+28/01/2007	Real Sociedad	0	2	Athletic Club	
+
+28/01/2007	Gimnàstic de Tarragona	4	0	Espanyol	
+
+28/01/2007	Real Zaragoza	1	1	Deportivo de La Coruña	
+
+Jornada 21
+Data	Local	 	 	Visitant	
+03/02/2007	Deportivo de La Coruña	1	0	Mallorca	
+
+03/02/2007	Espanyol	1	2	Real Zaragoza	
+
+03/02/2007	Valencia	3	1	Atlético de Madrid	
+
+04/02/2007	Athletic Club	1	2	Betis	
+
+04/02/2007	Celta de Vigo	1	1	Gimnàstic de Tarragona	
+
+04/02/2007	Recreativo de Huelva	2	1	Villarreal	
+
+04/02/2007	Osasuna	0	0	Barcelona	
+
+04/02/2007	Racing de Santander	1	0	Getafe	
+
+04/02/2007	Real Madrid	0	1	Levante	
+
+04/02/2007	Sevilla	0	0	Real Sociedad	
+
+Jornada 22
+Data	Local	 	 	Visitant	
+10/02/2007	Betis	0	0	Sevilla	
+
+10/02/2007	Real Sociedad	1	2	Real Madrid	
+
+11/02/2007	Atlético de Madrid	1	0	Athletic Club	
+
+11/02/2007	Barcelona	2	0	Racing de Santander	
+
+11/02/2007	Celta de Vigo	0	2	Espanyol	
+
+11/02/2007	Getafe	3	0	Valencia	
+
+11/02/2007	Levante	2	1	Recreativo de Huelva	
+
+11/02/2007	Mallorca	2	1	Real Zaragoza	
+
+11/02/2007	Gimnàstic de Tarragona	2	3	Osasuna	
+
+11/02/2007	Villarreal	0	2	Deportivo de La Coruña	
+
+Jornada 23
+Data	Local	 	 	Visitant	
+17/02/2007	Real Madrid	0	0	Betis	
+
+17/02/2007	Real Zaragoza	1	0	Villarreal	
+
+18/02/2007	Athletic Club	2	0	Getafe	
+
+18/02/2007	Deportivo de La Coruña	0	0	Levante	
+
+18/02/2007	Espanyol	3	1	Mallorca	
+
+18/02/2007	Recreativo de Huelva	1	0	Real Sociedad	
+
+18/02/2007	Osasuna	0	1	Celta de Vigo	
+
+18/02/2007	Racing de Santander	4	1	Gimnàstic de Tarragona	
+
+18/02/2007	Sevilla	3	1	Atlético de Madrid	
+
+18/02/2007	Valencia	2	1	Barcelona	
+
+Jornada 24
+Data	Local	 	 	Visitant	
+24/02/2007	Atlético de Madrid	1	1	Real Madrid	
+
+24/02/2007	Real Sociedad	0	1	Deportivo de La Coruña	
+
+25/02/2007	Barcelona	3	0	Athletic Club	
+
+25/02/2007	Betis	0	0	Recreativo de Huelva	
+
+25/02/2007	Celta de Vigo	2	2	Racing de Santander	
+
+25/02/2007	Getafe	0	0	Sevilla	
+
+25/02/2007	Levante	0	0	Real Zaragoza	
+
+25/02/2007	Osasuna	0	2	Espanyol	
+
+25/02/2007	Gimnàstic de Tarragona	1	1	Valencia	
+
+25/02/2007	Villarreal	2	1	Mallorca	
+
+Jornada 25
+Data	Local	 	 	Visitant	
+03/03/2007	Sevilla	2	1	Barcelona	
+
+03/03/2007	Valencia	1	0	Celta de Vigo	
+
+04/03/2007	Athletic Club	0	2	Gimnàstic de Tarragona	
+
+04/03/2007	Deportivo de La Coruña	0	1	Betis	
+
+04/03/2007	Espanyol	1	1	Villarreal	
+
+04/03/2007	Recreativo de Huelva	1	0	Atlético de Madrid	
+
+04/03/2007	Mallorca	3	1	Levante	
+
+04/03/2007	Racing de Santander	1	0	Osasuna	
+
+04/03/2007	Real Madrid	1	1	Getafe	
+
+04/03/2007	Real Zaragoza	3	2	Real Sociedad	
+
+Jornada 26
+Data	Local	 	 	Visitant	
+10/03/2007	Barcelona	3	3	Real Madrid	
+
+10/03/2007	Levante	0	2	Villarreal	
+
+11/03/2007	Atlético de Madrid	2	0	Deportivo de La Coruña	
+
+11/03/2007	Betis	1	1	Real Zaragoza	
+
+11/03/2007	Celta de Vigo	1	1	Athletic Club	
+
+11/03/2007	Getafe	1	1	Recreativo de Huelva	
+
+11/03/2007	Osasuna	1	1	Valencia	
+
+11/03/2007	Racing de Santander	1	1	Espanyol	
+
+11/03/2007	Real Sociedad	3	1	Mallorca	
+
+11/03/2007	Gimnàstic de Tarragona	1	0	Sevilla	
+
+Jornada 27
+Data	Local	 	 	Visitant	
+17/03/2007	Athletic Club	0	3	Osasuna	
+
+17/03/2007	Recreativo de Huelva	0	4	Barcelona	
+
+17/03/2007	Mallorca	2	0	Betis	
+
+17/03/2007	Valencia	0	2	Racing de Santander	
+
+18/03/2007	Deportivo de La Coruña	1	0	Getafe	
+
+18/03/2007	Espanyol	1	1	Levante	
+
+18/03/2007	Real Madrid	2	0	Gimnàstic de Tarragona	
+
+18/03/2007	Sevilla	2	0	Celta de Vigo	
+
+18/03/2007	Villarreal	1	1	Real Sociedad	
+
+18/03/2007	Real Zaragoza	1	0	Atlético de Madrid	
+
+Jornada 28
+Data	Local	 	 	Visitant	
+31/03/2007	Barcelona	2	1	Deportivo de La Coruña	
+
+31/03/2007	Betis	3	3	Villarreal	
+
+31/03/2007	Real Sociedad	1	0	Levante	
+
+31/03/2007	Valencia	3	2	Espanyol	
+
+01/04/2007	Atlético de Madrid	1	1	Mallorca	
+
+01/04/2007	Celta de Vigo	1	2	Real Madrid	
+
+01/04/2007	Getafe	2	2	Real Zaragoza	
+
+01/04/2007	Osasuna	0	0	Sevilla	
+
+01/04/2007	Racing de Santander	5	4	Athletic Club	
+
+01/04/2007	Gimnàstic de Tarragona	1	1	Recreativo de Huelva	
+
+Jornada 29
+Data	Local	 	 	Visitant	
+07/04/2007	Athletic Club	1	0	Valencia	
+
+07/04/2007	Real Zaragoza	1	0	Barcelona	
+
+08/04/2007	Deportivo de La Coruña	1	0	Gimnàstic de Tarragona	
+
+08/04/2007	Espanyol	1	0	Real Sociedad	
+
+08/04/2007	Recreativo de Huelva	4	2	Celta de Vigo	
+
+08/04/2007	Levante	1	1	Betis	
+
+08/04/2007	Mallorca	2	0	Getafe	
+
+08/04/2007	Real Madrid	2	0	Osasuna	
+
+08/04/2007	Sevilla	0	0	Racing de Santander	
+
+08/04/2007	Villarreal	0	1	Atlético de Madrid	
+
+Jornada 30
+Data	Local	 	 	Visitant	
+14/04/2007	Betis	0	1	Real Sociedad	
+
+14/04/2007	Racing de Santander	2	1	Real Madrid	
+
+15/04/2007	Athletic Club	2	1	Espanyol	
+
+15/04/2007	Atlético de Madrid	1	0	Levante	
+
+15/04/2007	Barcelona	1	0	Mallorca	
+
+15/04/2007	Celta de Vigo	1	0	Deportivo de La Coruña	
+
+15/04/2007	Getafe	3	0	Villarreal	
+
+15/04/2007	Osasuna	1	1	Recreativo de Huelva	
+
+15/04/2007	Gimnàstic de Tarragona	1	0	Real Zaragoza	
+
+15/04/2007	Valencia	2	0	Sevilla	
+
+Jornada 31
+Data	Local	 	 	Visitant	
+21/04/2007	Real Sociedad	2	0	Atlético de Madrid	
+
+21/04/2007	Real Madrid	2	1	Valencia	
+
+22/04/2007	Deportivo de La Coruña	1	0	Osasuna	
+
+22/04/2007	Espanyol	2	2	Betis	
+
+22/04/2007	Recreativo de Huelva	4	2	Racing de Santander	
+
+22/04/2007	Levante	1	1	Getafe	
+
+22/04/2007	Mallorca	1	0	Gimnàstic de Tarragona	
+
+22/04/2007	Sevilla	4	1	Athletic Club	
+
+22/04/2007	Villarreal	2	0	Barcelona	
+
+22/04/2007	Real Zaragoza	2	0	Celta de Vigo	
+
+Jornada 32
+Data	Local	 	 	Visitant	
+28/04/2007	Atlético de Madrid	0	0	Betis	
+
+28/04/2007	Valencia	2	0	Recreativo de Huelva	
+
+29/04/2007	Athletic Club	1	4	Real Madrid	
+
+29/04/2007	Barcelona	1	0	Levante	
+
+29/04/2007	Celta de Vigo	0	3	Mallorca	
+
+29/04/2007	Getafe	1	0	Real Sociedad	
+
+29/04/2007	Osasuna	2	2	Real Zaragoza	
+
+29/04/2007	Racing de Santander	0	0	Deportivo de La Coruña	
+
+29/04/2007	Sevilla	3	1	Espanyol	
+
+29/04/2007	Gimnàstic de Tarragona	0	3	Villarreal	
+
+Jornada 33
+Data	Local	 	 	Visitant	
+05/05/2007	Deportivo de La Coruña	1	2	Valencia	
+
+05/05/2007	Real Sociedad	0	2	Barcelona	
+
+06/05/2007	Betis	0	2	Getafe	
+
+06/05/2007	Espanyol	2	1	Atlético de Madrid	
+
+06/05/2007	Recreativo de Huelva	0	0	Athletic Club	
+
+06/05/2007	Levante	2	0	Gimnàstic de Tarragona	
+
+06/05/2007	Mallorca	3	1	Osasuna	
+
+06/05/2007	Real Madrid	3	2	Sevilla	
+
+06/05/2007	Villarreal	1	0	Celta de Vigo	
+
+06/05/2007	Real Zaragoza	0	0	Racing de Santander	
+
+Jornada 34
+Data	Local	 	 	Visitant	
+12/05/2007	Real Madrid	4	3	Espanyol	
+
+12/05/2007	Sevilla	2	1	Recreativo de Huelva	
+
+13/05/2007	Athletic Club	1	1	Deportivo de La Coruña	
+
+13/05/2007	Barcelona	1	1	Betis	
+
+13/05/2007	Celta de Vigo	1	2	Levante	
+
+13/05/2007	Getafe	1	4	Atlético de Madrid	
+
+13/05/2007	Osasuna	1	4	Villarreal	
+
+13/05/2007	Racing de Santander	0	2	Mallorca	
+
+13/05/2007	Gimnàstic de Tarragona	1	3	Real Sociedad	
+
+13/05/2007	Valencia	2	0	Real Zaragoza	
+
+Jornada 35
+Data	Local	 	 	Visitant	
+19/05/2007	Betis	1	1	Gimnàstic de Tarragona	
+
+19/05/2007	Mallorca	0	1	Valencia	
+
+19/05/2007	Real Zaragoza	4	3	Athletic Club	
+
+20/05/2007	Atlético de Madrid	0	6	Barcelona	
+
+20/05/2007	Deportivo de La Coruña	1	2	Sevilla	
+
+20/05/2007	Espanyol	1	5	Getafe	
+
+20/05/2007	Recreativo de Huelva	2	3	Real Madrid	
+
+20/05/2007	Levante	1	4	Osasuna	
+
+20/05/2007	Real Sociedad	3	1	Celta de Vigo	
+
+20/05/2007	Villarreal	2	1	Racing de Santander	
+
+Jornada 36
+Data	Local	 	 	Visitant	
+26/05/2007	Barcelona	1	0	Getafe	
+
+26/05/2007	Real Madrid	3	1	Deportivo de La Coruña	
+
+26/05/2007	Valencia	2	3	Villarreal	
+
+27/05/2007	Athletic Club	1	0	Mallorca	
+
+27/05/2007	Celta de Vigo	2	1	Betis	
+
+27/05/2007	Recreativo de Huelva	0	1	Espanyol	
+
+27/05/2007	Osasuna	2	0	Real Sociedad	
+
+27/05/2007	Racing de Santander	2	3	Levante	
+
+27/05/2007	Sevilla	3	1	Real Zaragoza	
+
+27/05/2007	Gimnàstic de Tarragona	0	2	Atlético de Madrid	
+
+Jornada 37
+Data	Local	 	 	Visitant	
+09/06/2007	Atlético de Madrid	2	3	Celta de Vigo	
+
+09/06/2007	Barcelona	2	2	Espanyol	
+
+09/06/2007	Betis	0	5	Osasuna	
+
+09/06/2007	Levante	4	2	Valencia	
+
+09/06/2007	Mallorca	0	0	Sevilla	
+
+09/06/2007	Real Sociedad	0	0	Racing de Santander	
+
+09/06/2007	Villarreal	3	1	Athletic Club	
+
+09/06/2007	Real Zaragoza	2	2	Real Madrid	
+
+10/06/2007	Deportivo de La Coruña	2	5	Recreativo de Huelva	
+
+10/06/2007	Getafe	0	1	Gimnàstic de Tarragona	
+
+Jornada 38
+Data	Local	 	 	Visitant	
+17/06/2007	Athletic Club	2	0	Levante	
+
+17/06/2007	Celta de Vigo	2	1	Getafe	
+
+17/06/2007	Espanyol	1	3	Deportivo de La Coruña	
+
+17/06/2007	Recreativo de Huelva	1	1	Real Zaragoza	
+
+17/06/2007	Osasuna	1	2	Atlético de Madrid	
+
+17/06/2007	Racing de Santander	0	2	Betis	
+
+17/06/2007	Real Madrid	3	1	Mallorca	
+
+17/06/2007	Sevilla	0	1	Villarreal	
+
+17/06/2007	Gimnàstic de Tarragona	1	5	Barcelona	
+
+17/06/2007	Valencia	3	3	Real Sociedad	
+
