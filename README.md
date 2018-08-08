@@ -16,4 +16,4 @@ An implementation of a Random Forest approach was done in Java. This implementat
 
 The figure below shows the results obtained on a validation data set.
 
-![misc/figure.PNG]
+![Results](misc/figure.PNG)
